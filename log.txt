@@ -1,0 +1,2213 @@
+
+❄️  New Network Member
+🏦  Member (ed25519): 3y6g21Z7zoCXESWJ7VY9GQVGMvbZLj2G3UW2GvVi7Juq72t4
+✅ Network Authority created!
+🏦  Member (ed25519): 3wuCGwNSR7XmVrXvxQUnWdJZLR9hmNjTsZ6VCyKowFHA3YKJ
+🔏  Member permissions updated
+🔏  Member identity info updated
+🔏  Member identity judgement requested
+🔏  Member identity judgement provided
+✅ Network Member added!
+
+❄️  Demo Identities (KeyRing)
+authentication debug level {
+  address: '3uvtvaLTazj3ismaaMrqmfGMDMQ5hJ8hYH6Ea4T5rXu9Z6Ug',
+  addressRaw: Uint8Array(32) [
+     48, 162,   4, 109, 124, 166,   6,  92,
+     35, 188,  78, 245, 139, 169, 137,  35,
+     20, 110, 211,   8,  13, 255, 100, 209,
+    176, 155,  32, 188,  34, 237, 108,  34
+  ],
+  isLocked: false,
+  meta: {},
+  publicKey: Uint8Array(32) [
+     48, 162,   4, 109, 124, 166,   6,  92,
+     35, 188,  78, 245, 139, 169, 137,  35,
+     20, 110, 211,   8,  13, 255, 100, 209,
+    176, 155,  32, 188,  34, 237, 108,  34
+  ],
+  type: 'sr25519',
+  decodePkcs8: [Function: decodePkcs8],
+  derive: [Function: derive],
+  encodePkcs8: [Function: encodePkcs8],
+  lock: [Function: lock],
+  setMeta: [Function: setMeta],
+  sign: [Function: sign],
+  toJson: [Function: toJson],
+  unlock: [Function: unlock],
+  verify: [Function: verify],
+  vrfSign: [Function: vrfSign],
+  vrfVerify: [Function: vrfVerify]
+}
+[
+  {
+    address: '3uvtvaLTazj3ismaaMrqmfGMDMQ5hJ8hYH6Ea4T5rXu9Z6Ug',
+    addressRaw: Uint8Array(32) [
+       48, 162,   4, 109, 124, 166,   6,  92,
+       35, 188,  78, 245, 139, 169, 137,  35,
+       20, 110, 211,   8,  13, 255, 100, 209,
+      176, 155,  32, 188,  34, 237, 108,  34
+    ],
+    isLocked: false,
+    meta: {},
+    publicKey: Uint8Array(32) [
+       48, 162,   4, 109, 124, 166,   6,  92,
+       35, 188,  78, 245, 139, 169, 137,  35,
+       20, 110, 211,   8,  13, 255, 100, 209,
+      176, 155,  32, 188,  34, 237, 108,  34
+    ],
+    type: 'sr25519',
+    decodePkcs8: [Function: decodePkcs8],
+    derive: [Function: derive],
+    encodePkcs8: [Function: encodePkcs8],
+    lock: [Function: lock],
+    setMeta: [Function: setMeta],
+    sign: [Function: sign],
+    toJson: [Function: toJson],
+    unlock: [Function: unlock],
+    verify: [Function: verify],
+    vrfSign: [Function: vrfSign],
+    vrfVerify: [Function: vrfVerify]
+  }
+] debug level 0 authentication
+[
+  {
+    address: '3uyhWGASBGdnhoobes1VQ9zVZtbUnrypCpowjpr64VBuDq2A',
+    addressRaw: Uint8Array(32) [
+       50, 197,  80,  37, 105, 208, 205,  18,
+       28, 125, 226,  46, 145, 230,  15, 167,
+      111,  14,  46, 144, 130,  68, 203,  23,
+      194, 213,  64,  28, 118,  35, 179,  16
+    ],
+    isLocked: false,
+    meta: {},
+    publicKey: Uint8Array(32) [
+       50, 197,  80,  37, 105, 208, 205,  18,
+       28, 125, 226,  46, 145, 230,  15, 167,
+      111,  14,  46, 144, 130,  68, 203,  23,
+      194, 213,  64,  28, 118,  35, 179,  16
+    ],
+    type: 'sr25519',
+    decodePkcs8: [Function: decodePkcs8],
+    derive: [Function: derive],
+    encodePkcs8: [Function: encodePkcs8],
+    lock: [Function: lock],
+    setMeta: [Function: setMeta],
+    sign: [Function: sign],
+    toJson: [Function: toJson],
+    unlock: [Function: unlock],
+    verify: [Function: verify],
+    vrfSign: [Function: vrfSign],
+    vrfVerify: [Function: vrfVerify]
+  }
+] debug level 0 assertionMethod
+[
+  {
+    address: '3xKAjqdL8d7guPFRyvVNBxc5W4HLny9Chkj9ievX3n5RatNB',
+    addressRaw: Uint8Array(32) [
+      154,  23,  30, 234,  97, 173, 209, 141,
+      225, 219,  32, 220, 253,  82,  67,  18,
+      154, 169, 236,  44,  30,  64, 125, 219,
+      124, 238,  96,  21, 238,  49,  13, 100
+    ],
+    isLocked: false,
+    meta: {},
+    publicKey: Uint8Array(32) [
+      154,  23,  30, 234,  97, 173, 209, 141,
+      225, 219,  32, 220, 253,  82,  67,  18,
+      154, 169, 236,  44,  30,  64, 125, 219,
+      124, 238,  96,  21, 238,  49,  13, 100
+    ],
+    type: 'sr25519',
+    decodePkcs8: [Function: decodePkcs8],
+    derive: [Function: derive],
+    encodePkcs8: [Function: encodePkcs8],
+    lock: [Function: lock],
+    setMeta: [Function: setMeta],
+    sign: [Function: sign],
+    toJson: [Function: toJson],
+    unlock: [Function: unlock],
+    verify: [Function: verify],
+    vrfSign: [Function: vrfSign],
+    vrfVerify: [Function: vrfVerify]
+  }
+] debug level 0 capabilityDelegation
+[
+  {
+    publicKey: Uint8Array(32) [
+       84, 252, 129,  41,  90,  46, 170, 211,
+      151, 230, 109, 155, 233,  96,  87,  11,
+       69, 225,  55, 233,  63, 153, 113, 232,
+      242, 135, 160, 212,  73, 227, 169,  73
+    ],
+    secretKey: Uint8Array(32) [
+      213, 162,  42,  32,  94, 100,  57,  94,
+      210,  98, 202,  44,  66, 111, 233,  97,
+      249, 201, 111, 101, 159, 244, 206, 131,
+       13, 172, 123, 121, 143, 154, 241,  43
+    ],
+    type: 'x25519'
+  }
+] debug level 0 keyAgreement
+[
+  {
+    id: '#my-service',
+    type: [ 'service-type' ],
+    serviceEndpoint: [ 'https://www.example.com' ]
+  }
+] debug level 0 service
+{
+  address: '3uvtvaLTazj3ismaaMrqmfGMDMQ5hJ8hYH6Ea4T5rXu9Z6Ug',
+  addressRaw: Uint8Array(32) [
+     48, 162,   4, 109, 124, 166,   6,  92,
+     35, 188,  78, 245, 139, 169, 137,  35,
+     20, 110, 211,   8,  13, 255, 100, 209,
+    176, 155,  32, 188,  34, 237, 108,  34
+  ],
+  isLocked: false,
+  meta: {},
+  publicKey: Uint8Array(32) [
+     48, 162,   4, 109, 124, 166,   6,  92,
+     35, 188,  78, 245, 139, 169, 137,  35,
+     20, 110, 211,   8,  13, 255, 100, 209,
+    176, 155,  32, 188,  34, 237, 108,  34
+  ],
+  type: 'sr25519',
+  decodePkcs8: [Function: decodePkcs8],
+  derive: [Function: derive],
+  encodePkcs8: [Function: encodePkcs8],
+  lock: [Function: lock],
+  setMeta: [Function: setMeta],
+  sign: [Function: sign],
+  toJson: [Function: toJson],
+  unlock: [Function: unlock],
+  verify: [Function: verify],
+  vrfSign: [Function: vrfSign],
+  vrfVerify: [Function: vrfVerify]
+} debug level 0 authenticationKey
+3uvtvaLTazj3ismaaMrqmfGMDMQ5hJ8hYH6Ea4T5rXu9Z6Ug debug level did
+3wuCGwNSR7XmVrXvxQUnWdJZLR9hmNjTsZ6VCyKowFHA3YKJ debug level submitter
+{
+  sr25519: Uint8Array(32) [
+     50, 197,  80,  37, 105, 208, 205,  18,
+     28, 125, 226,  46, 145, 230,  15, 167,
+    111,  14,  46, 144, 130,  68, 203,  23,
+    194, 213,  64,  28, 118,  35, 179,  16
+  ]
+} debug level assertionKey
+{
+  sr25519: Uint8Array(32) [
+    154,  23,  30, 234,  97, 173, 209, 141,
+    225, 219,  32, 220, 253,  82,  67,  18,
+    154, 169, 236,  44,  30,  64, 125, 219,
+    124, 238,  96,  21, 238,  49,  13, 100
+  ]
+} debug level delegationKey
+[
+  {
+    x25519: Uint8Array(32) [
+       84, 252, 129,  41,  90,  46, 170, 211,
+      151, 230, 109, 155, 233,  96,  87,  11,
+       69, 225,  55, 233,  63, 153, 113, 232,
+      242, 135, 160, 212,  73, 227, 169,  73
+    ]
+  }
+] debug level keyAgreementKeys
+[
+  {
+    id: 'my-service',
+    serviceTypes: [ 'service-type' ],
+    urls: [ 'https://www.example.com' ]
+  }
+] debug level serviceDetails
+{
+  did: '3uvtvaLTazj3ismaaMrqmfGMDMQ5hJ8hYH6Ea4T5rXu9Z6Ug',
+  submitter: '3wuCGwNSR7XmVrXvxQUnWdJZLR9hmNjTsZ6VCyKowFHA3YKJ',
+  newAssertionKey: {
+    sr25519: Uint8Array(32) [
+       50, 197,  80,  37, 105, 208, 205,  18,
+       28, 125, 226,  46, 145, 230,  15, 167,
+      111,  14,  46, 144, 130,  68, 203,  23,
+      194, 213,  64,  28, 118,  35, 179,  16
+    ]
+  },
+  newDelegationKey: {
+    sr25519: Uint8Array(32) [
+      154,  23,  30, 234,  97, 173, 209, 141,
+      225, 219,  32, 220, 253,  82,  67,  18,
+      154, 169, 236,  44,  30,  64, 125, 219,
+      124, 238,  96,  21, 238,  49,  13, 100
+    ]
+  },
+  newKeyAgreementKeys: [ { x25519: [Uint8Array] } ],
+  newServiceDetails: [ { id: 'my-service', serviceTypes: [Array], urls: [Array] } ]
+} debug level apiinput
+Uint8Array(217) [
+   48, 162,   4, 109, 124, 166,   6,  92,  35, 188,  78, 245,
+  139, 169, 137,  35,  20, 110, 211,   8,  13, 255, 100, 209,
+  176, 155,  32, 188,  34, 237, 108,  34, 135, 206, 102, 255,
+  122, 148, 166, 180,  21, 185,  23, 104, 171, 219, 209, 234,
+  130, 233, 251,  39, 217, 123, 125,  43, 175, 184,  32, 221,
+  157,  33, 118, 252,   4,   0,  84, 252, 129,  41,  90,  46,
+  170, 211, 151, 230, 109, 155, 233,  96,  87,  11,  69, 225,
+   55, 233,  63, 153, 113, 232, 242, 135, 160, 212,  73, 227,
+  169,  73,   1,   1,
+  ... 117 more items
+] {
+  sr25519: Uint8Array(64) [
+    230,  68, 123, 239,  68,  31, 250, 188,  60, 193,   0,
+    197, 252, 126,   5, 210, 212, 235,  10, 213, 225, 184,
+     93, 218, 238, 232, 174, 237, 230, 216,  42,  32, 193,
+    132, 172,  69, 190, 119,  32, 113, 176, 204, 176, 118,
+      3,  30, 243,  73, 123,  93, 243,  15, 188, 232, 215,
+    230, 154, 221,  70, 183, 207, 206, 187, 133
+  ]
+} debug level DidCall
+{
+  sr25519: Uint8Array(64) [
+    230,  68, 123, 239,  68,  31, 250, 188,  60, 193,   0,
+    197, 252, 126,   5, 210, 212, 235,  10, 213, 225, 184,
+     93, 218, 238, 232, 174, 237, 230, 216,  42,  32, 193,
+    132, 172,  69, 190, 119,  32, 113, 176, 204, 176, 118,
+      3,  30, 243,  73, 123,  93, 243,  15, 188, 232, 215,
+    230, 154, 221,  70, 183, 207, 206, 187, 133
+  ]
+} debug level encodedSignature
+{
+  uri: 'did:cord:3uvtvaLTazj3ismaaMrqmfGMDMQ5hJ8hYH6Ea4T5rXu9Z6Ug',
+  authentication: [
+    {
+      id: '#0x2110c26ee32a193af2f8b2f1c335005cec8d41ceb88e8f2ff04caa08da6b585c',
+      type: 'sr25519',
+      publicKey: [Uint8Array]
+    }
+  ],
+  assertionMethod: [
+    {
+      id: '#0x82b0c396a149e389a5bfedc2313fbe9353a95b97221fe8679c275e2aab329522',
+      type: 'sr25519',
+      publicKey: [Uint8Array]
+    }
+  ],
+  capabilityDelegation: [
+    {
+      id: '#0x02f068391f9fa6b1502e155a957b0032fb21c7a2498a42dc201d1d9324377c71',
+      type: 'sr25519',
+      publicKey: [Uint8Array]
+    }
+  ],
+  keyAgreement: [
+    {
+      id: '#0xb1666b33a0660bf90ed6d1c6a8a177c3e76ea8ba8ab4a2f3d820ec8f678aba57',
+      type: 'x25519',
+      publicKey: [Uint8Array]
+    }
+  ],
+  service: [ { id: '#my-service', type: [Array], serviceEndpoint: [Array] } ]
+}
+authentication debug level {
+  address: '3uvtvaLTazj3ismaaMrqmfGMDMQ5hJ8hYH6Ea4T5rXu9Z6Ug',
+  addressRaw: Uint8Array(32) [
+     48, 162,   4, 109, 124, 166,   6,  92,
+     35, 188,  78, 245, 139, 169, 137,  35,
+     20, 110, 211,   8,  13, 255, 100, 209,
+    176, 155,  32, 188,  34, 237, 108,  34
+  ],
+  isLocked: false,
+  meta: {},
+  publicKey: Uint8Array(32) [
+     48, 162,   4, 109, 124, 166,   6,  92,
+     35, 188,  78, 245, 139, 169, 137,  35,
+     20, 110, 211,   8,  13, 255, 100, 209,
+    176, 155,  32, 188,  34, 237, 108,  34
+  ],
+  type: 'sr25519',
+  decodePkcs8: [Function: decodePkcs8],
+  derive: [Function: derive],
+  encodePkcs8: [Function: encodePkcs8],
+  lock: [Function: lock],
+  setMeta: [Function: setMeta],
+  sign: [Function: sign],
+  toJson: [Function: toJson],
+  unlock: [Function: unlock],
+  verify: [Function: verify],
+  vrfSign: [Function: vrfSign],
+  vrfVerify: [Function: vrfVerify]
+}
+🏢  Verifier (sr25519): did:cord:3uvtvaLTazj3ismaaMrqmfGMDMQ5hJ8hYH6Ea4T5rXu9Z6Ug
+authentication debug level {
+  address: '3yMtkHPR679PRd3eTjWPUmG36sCFRXwzH1U2eDjpUhT8eQkk',
+  addressRaw: Uint8Array(32) [
+    200, 103,  65,  98,  81,  34,  90, 237,
+    233, 125, 171, 240,  34, 173, 139, 193,
+    209, 242, 218, 237, 103,  44, 198, 206,
+     16, 166,  93,  81, 144, 134,  62,  67
+  ],
+  isLocked: false,
+  meta: {},
+  publicKey: Uint8Array(32) [
+    200, 103,  65,  98,  81,  34,  90, 237,
+    233, 125, 171, 240,  34, 173, 139, 193,
+    209, 242, 218, 237, 103,  44, 198, 206,
+     16, 166,  93,  81, 144, 134,  62,  67
+  ],
+  type: 'sr25519',
+  decodePkcs8: [Function: decodePkcs8],
+  derive: [Function: derive],
+  encodePkcs8: [Function: encodePkcs8],
+  lock: [Function: lock],
+  setMeta: [Function: setMeta],
+  sign: [Function: sign],
+  toJson: [Function: toJson],
+  unlock: [Function: unlock],
+  verify: [Function: verify],
+  vrfSign: [Function: vrfSign],
+  vrfVerify: [Function: vrfVerify]
+}
+[
+  {
+    address: '3yMtkHPR679PRd3eTjWPUmG36sCFRXwzH1U2eDjpUhT8eQkk',
+    addressRaw: Uint8Array(32) [
+      200, 103,  65,  98,  81,  34,  90, 237,
+      233, 125, 171, 240,  34, 173, 139, 193,
+      209, 242, 218, 237, 103,  44, 198, 206,
+       16, 166,  93,  81, 144, 134,  62,  67
+    ],
+    isLocked: false,
+    meta: {},
+    publicKey: Uint8Array(32) [
+      200, 103,  65,  98,  81,  34,  90, 237,
+      233, 125, 171, 240,  34, 173, 139, 193,
+      209, 242, 218, 237, 103,  44, 198, 206,
+       16, 166,  93,  81, 144, 134,  62,  67
+    ],
+    type: 'sr25519',
+    decodePkcs8: [Function: decodePkcs8],
+    derive: [Function: derive],
+    encodePkcs8: [Function: encodePkcs8],
+    lock: [Function: lock],
+    setMeta: [Function: setMeta],
+    sign: [Function: sign],
+    toJson: [Function: toJson],
+    unlock: [Function: unlock],
+    verify: [Function: verify],
+    vrfSign: [Function: vrfSign],
+    vrfVerify: [Function: vrfVerify]
+  }
+] debug level 0 authentication
+[
+  {
+    address: '3zMSjz1r6MWbm8hXoDXbognyVo8nAj1LJ3pBceM749RhYjxo',
+    addressRaw: Uint8Array(32) [
+      244,  75, 242, 154, 190, 163,  51, 223,
+       62, 126,  46,  75,  88, 224,  58,  83,
+       75, 121,  51, 120, 204, 192, 149,  31,
+      124, 179,  98,  47, 142, 175, 162,   9
+    ],
+    isLocked: false,
+    meta: {},
+    publicKey: Uint8Array(32) [
+      244,  75, 242, 154, 190, 163,  51, 223,
+       62, 126,  46,  75,  88, 224,  58,  83,
+       75, 121,  51, 120, 204, 192, 149,  31,
+      124, 179,  98,  47, 142, 175, 162,   9
+    ],
+    type: 'sr25519',
+    decodePkcs8: [Function: decodePkcs8],
+    derive: [Function: derive],
+    encodePkcs8: [Function: encodePkcs8],
+    lock: [Function: lock],
+    setMeta: [Function: setMeta],
+    sign: [Function: sign],
+    toJson: [Function: toJson],
+    unlock: [Function: unlock],
+    verify: [Function: verify],
+    vrfSign: [Function: vrfSign],
+    vrfVerify: [Function: vrfVerify]
+  }
+] debug level 0 assertionMethod
+[
+  {
+    address: '3xHHhfazjBHfhRQd9MnKx7AkUkPQJEY6yyZoPSNFxuCqtJzx',
+    addressRaw: Uint8Array(32) [
+      152, 168,  17,  99, 207, 192,  23,  13,
+      189,  25,  33, 147, 230, 254,  57, 126,
+       13, 243,  22, 196, 116,  93, 149, 208,
+       22, 186, 235, 101, 175,  59,  91,  34
+    ],
+    isLocked: false,
+    meta: {},
+    publicKey: Uint8Array(32) [
+      152, 168,  17,  99, 207, 192,  23,  13,
+      189,  25,  33, 147, 230, 254,  57, 126,
+       13, 243,  22, 196, 116,  93, 149, 208,
+       22, 186, 235, 101, 175,  59,  91,  34
+    ],
+    type: 'sr25519',
+    decodePkcs8: [Function: decodePkcs8],
+    derive: [Function: derive],
+    encodePkcs8: [Function: encodePkcs8],
+    lock: [Function: lock],
+    setMeta: [Function: setMeta],
+    sign: [Function: sign],
+    toJson: [Function: toJson],
+    unlock: [Function: unlock],
+    verify: [Function: verify],
+    vrfSign: [Function: vrfSign],
+    vrfVerify: [Function: vrfVerify]
+  }
+] debug level 0 capabilityDelegation
+[
+  {
+    publicKey: Uint8Array(32) [
+      225,  73, 118,  47, 139,   8, 176,  93,
+      178, 108, 115, 132, 165, 131, 254,  35,
+      244,  27, 213,  73, 166,  75, 209, 173,
+      145, 176,  27, 241,  33, 188, 129,   3
+    ],
+    secretKey: Uint8Array(32) [
+        6, 199,  94, 221,  97,  57, 252, 175,
+      197, 196,  33, 220, 199,  92, 143, 161,
+      146, 143, 175,  73,  61,  10, 225, 105,
+      162, 155, 152, 211, 204, 135,  65, 212
+    ],
+    type: 'x25519'
+  }
+] debug level 0 keyAgreement
+[
+  {
+    id: '#my-service',
+    type: [ 'service-type' ],
+    serviceEndpoint: [ 'https://www.example.com' ]
+  }
+] debug level 0 service
+{
+  address: '3yMtkHPR679PRd3eTjWPUmG36sCFRXwzH1U2eDjpUhT8eQkk',
+  addressRaw: Uint8Array(32) [
+    200, 103,  65,  98,  81,  34,  90, 237,
+    233, 125, 171, 240,  34, 173, 139, 193,
+    209, 242, 218, 237, 103,  44, 198, 206,
+     16, 166,  93,  81, 144, 134,  62,  67
+  ],
+  isLocked: false,
+  meta: {},
+  publicKey: Uint8Array(32) [
+    200, 103,  65,  98,  81,  34,  90, 237,
+    233, 125, 171, 240,  34, 173, 139, 193,
+    209, 242, 218, 237, 103,  44, 198, 206,
+     16, 166,  93,  81, 144, 134,  62,  67
+  ],
+  type: 'sr25519',
+  decodePkcs8: [Function: decodePkcs8],
+  derive: [Function: derive],
+  encodePkcs8: [Function: encodePkcs8],
+  lock: [Function: lock],
+  setMeta: [Function: setMeta],
+  sign: [Function: sign],
+  toJson: [Function: toJson],
+  unlock: [Function: unlock],
+  verify: [Function: verify],
+  vrfSign: [Function: vrfSign],
+  vrfVerify: [Function: vrfVerify]
+} debug level 0 authenticationKey
+3yMtkHPR679PRd3eTjWPUmG36sCFRXwzH1U2eDjpUhT8eQkk debug level did
+3wuCGwNSR7XmVrXvxQUnWdJZLR9hmNjTsZ6VCyKowFHA3YKJ debug level submitter
+{
+  sr25519: Uint8Array(32) [
+    244,  75, 242, 154, 190, 163,  51, 223,
+     62, 126,  46,  75,  88, 224,  58,  83,
+     75, 121,  51, 120, 204, 192, 149,  31,
+    124, 179,  98,  47, 142, 175, 162,   9
+  ]
+} debug level assertionKey
+{
+  sr25519: Uint8Array(32) [
+    152, 168,  17,  99, 207, 192,  23,  13,
+    189,  25,  33, 147, 230, 254,  57, 126,
+     13, 243,  22, 196, 116,  93, 149, 208,
+     22, 186, 235, 101, 175,  59,  91,  34
+  ]
+} debug level delegationKey
+[
+  {
+    x25519: Uint8Array(32) [
+      225,  73, 118,  47, 139,   8, 176,  93,
+      178, 108, 115, 132, 165, 131, 254,  35,
+      244,  27, 213,  73, 166,  75, 209, 173,
+      145, 176,  27, 241,  33, 188, 129,   3
+    ]
+  }
+] debug level keyAgreementKeys
+[
+  {
+    id: 'my-service',
+    serviceTypes: [ 'service-type' ],
+    urls: [ 'https://www.example.com' ]
+  }
+] debug level serviceDetails
+{
+  did: '3yMtkHPR679PRd3eTjWPUmG36sCFRXwzH1U2eDjpUhT8eQkk',
+  submitter: '3wuCGwNSR7XmVrXvxQUnWdJZLR9hmNjTsZ6VCyKowFHA3YKJ',
+  newAssertionKey: {
+    sr25519: Uint8Array(32) [
+      244,  75, 242, 154, 190, 163,  51, 223,
+       62, 126,  46,  75,  88, 224,  58,  83,
+       75, 121,  51, 120, 204, 192, 149,  31,
+      124, 179,  98,  47, 142, 175, 162,   9
+    ]
+  },
+  newDelegationKey: {
+    sr25519: Uint8Array(32) [
+      152, 168,  17,  99, 207, 192,  23,  13,
+      189,  25,  33, 147, 230, 254,  57, 126,
+       13, 243,  22, 196, 116,  93, 149, 208,
+       22, 186, 235, 101, 175,  59,  91,  34
+    ]
+  },
+  newKeyAgreementKeys: [ { x25519: [Uint8Array] } ],
+  newServiceDetails: [ { id: 'my-service', serviceTypes: [Array], urls: [Array] } ]
+} debug level apiinput
+Uint8Array(217) [
+  200, 103,  65,  98,  81,  34,  90, 237, 233, 125, 171, 240,
+   34, 173, 139, 193, 209, 242, 218, 237, 103,  44, 198, 206,
+   16, 166,  93,  81, 144, 134,  62,  67, 135, 206, 102, 255,
+  122, 148, 166, 180,  21, 185,  23, 104, 171, 219, 209, 234,
+  130, 233, 251,  39, 217, 123, 125,  43, 175, 184,  32, 221,
+  157,  33, 118, 252,   4,   0, 225,  73, 118,  47, 139,   8,
+  176,  93, 178, 108, 115, 132, 165, 131, 254,  35, 244,  27,
+  213,  73, 166,  75, 209, 173, 145, 176,  27, 241,  33, 188,
+  129,   3,   1,   1,
+  ... 117 more items
+] {
+  sr25519: Uint8Array(64) [
+     78,  27, 196, 221, 166, 100,  52, 212, 110,  52, 129,
+    102, 173, 186,  99, 186,  72, 127,  26, 154, 174,  22,
+    220, 183, 147, 207,  82, 165,  87, 153, 120, 101, 152,
+    172, 216,   2,  92, 169,  83,  69, 183, 249, 249,   5,
+    110,  45,  33,  28, 254, 221, 239, 104, 209, 113, 208,
+    178,  95, 161, 211, 170, 135, 240,  76, 129
+  ]
+} debug level DidCall
+{
+  sr25519: Uint8Array(64) [
+     78,  27, 196, 221, 166, 100,  52, 212, 110,  52, 129,
+    102, 173, 186,  99, 186,  72, 127,  26, 154, 174,  22,
+    220, 183, 147, 207,  82, 165,  87, 153, 120, 101, 152,
+    172, 216,   2,  92, 169,  83,  69, 183, 249, 249,   5,
+    110,  45,  33,  28, 254, 221, 239, 104, 209, 113, 208,
+    178,  95, 161, 211, 170, 135, 240,  76, 129
+  ]
+} debug level encodedSignature
+{
+  uri: 'did:cord:3yMtkHPR679PRd3eTjWPUmG36sCFRXwzH1U2eDjpUhT8eQkk',
+  authentication: [
+    {
+      id: '#0xf9daf15b615792ad11b7a8648f08ce4d59444ff7882179cac1f92da593134d28',
+      type: 'sr25519',
+      publicKey: [Uint8Array]
+    }
+  ],
+  assertionMethod: [
+    {
+      id: '#0xacb12b112da70ff3114b63fabcacf2cd644972d19c318dd335e6fc8aea989d8b',
+      type: 'sr25519',
+      publicKey: [Uint8Array]
+    }
+  ],
+  capabilityDelegation: [
+    {
+      id: '#0xa11c25284110dd28bf6a66f7b3304d4ee86138834c42a509ab0febf41dee6619',
+      type: 'sr25519',
+      publicKey: [Uint8Array]
+    }
+  ],
+  keyAgreement: [
+    {
+      id: '#0xee047e036f75c8951b484e337dcb16d554f802ba3469d35f309e8c102a289886',
+      type: 'x25519',
+      publicKey: [Uint8Array]
+    }
+  ],
+  service: [ { id: '#my-service', type: [Array], serviceEndpoint: [Array] } ]
+}
+authentication debug level {
+  address: '3yMtkHPR679PRd3eTjWPUmG36sCFRXwzH1U2eDjpUhT8eQkk',
+  addressRaw: Uint8Array(32) [
+    200, 103,  65,  98,  81,  34,  90, 237,
+    233, 125, 171, 240,  34, 173, 139, 193,
+    209, 242, 218, 237, 103,  44, 198, 206,
+     16, 166,  93,  81, 144, 134,  62,  67
+  ],
+  isLocked: false,
+  meta: {},
+  publicKey: Uint8Array(32) [
+    200, 103,  65,  98,  81,  34,  90, 237,
+    233, 125, 171, 240,  34, 173, 139, 193,
+    209, 242, 218, 237, 103,  44, 198, 206,
+     16, 166,  93,  81, 144, 134,  62,  67
+  ],
+  type: 'sr25519',
+  decodePkcs8: [Function: decodePkcs8],
+  derive: [Function: derive],
+  encodePkcs8: [Function: encodePkcs8],
+  lock: [Function: lock],
+  setMeta: [Function: setMeta],
+  sign: [Function: sign],
+  toJson: [Function: toJson],
+  unlock: [Function: unlock],
+  verify: [Function: verify],
+  vrfSign: [Function: vrfSign],
+  vrfVerify: [Function: vrfVerify]
+}
+👩‍⚕️  Holder (sr25519): did:cord:3yMtkHPR679PRd3eTjWPUmG36sCFRXwzH1U2eDjpUhT8eQkk
+authentication debug level {
+  address: '3wN5tx3AicuKs93pihK2q2dafqd9SMPJASP2fitYCwZfBp2U',
+  addressRaw: Uint8Array(32) [
+    112,  20,  82,  31, 174,   4, 121,  87,
+    243, 130, 136, 205, 127, 105, 185,  33,
+    182,  99, 139, 210, 131, 251, 121, 219,
+     39, 195, 120,  36, 111,  18, 118,  29
+  ],
+  isLocked: false,
+  meta: {},
+  publicKey: Uint8Array(32) [
+    112,  20,  82,  31, 174,   4, 121,  87,
+    243, 130, 136, 205, 127, 105, 185,  33,
+    182,  99, 139, 210, 131, 251, 121, 219,
+     39, 195, 120,  36, 111,  18, 118,  29
+  ],
+  type: 'sr25519',
+  decodePkcs8: [Function: decodePkcs8],
+  derive: [Function: derive],
+  encodePkcs8: [Function: encodePkcs8],
+  lock: [Function: lock],
+  setMeta: [Function: setMeta],
+  sign: [Function: sign],
+  toJson: [Function: toJson],
+  unlock: [Function: unlock],
+  verify: [Function: verify],
+  vrfSign: [Function: vrfSign],
+  vrfVerify: [Function: vrfVerify]
+}
+[
+  {
+    address: '3wN5tx3AicuKs93pihK2q2dafqd9SMPJASP2fitYCwZfBp2U',
+    addressRaw: Uint8Array(32) [
+      112,  20,  82,  31, 174,   4, 121,  87,
+      243, 130, 136, 205, 127, 105, 185,  33,
+      182,  99, 139, 210, 131, 251, 121, 219,
+       39, 195, 120,  36, 111,  18, 118,  29
+    ],
+    isLocked: false,
+    meta: {},
+    publicKey: Uint8Array(32) [
+      112,  20,  82,  31, 174,   4, 121,  87,
+      243, 130, 136, 205, 127, 105, 185,  33,
+      182,  99, 139, 210, 131, 251, 121, 219,
+       39, 195, 120,  36, 111,  18, 118,  29
+    ],
+    type: 'sr25519',
+    decodePkcs8: [Function: decodePkcs8],
+    derive: [Function: derive],
+    encodePkcs8: [Function: encodePkcs8],
+    lock: [Function: lock],
+    setMeta: [Function: setMeta],
+    sign: [Function: sign],
+    toJson: [Function: toJson],
+    unlock: [Function: unlock],
+    verify: [Function: verify],
+    vrfSign: [Function: vrfSign],
+    vrfVerify: [Function: vrfVerify]
+  }
+] debug level 0 authentication
+[
+  {
+    address: '3yAvnSoaVCJq4csQLNV9TN9QYzYka8b4D5NZvmWdVBGgqqxC',
+    addressRaw: Uint8Array(32) [
+      192,  10, 105, 255, 230,  28, 248, 214,
+      110, 234, 248, 191, 184,  83, 144, 201,
+       61,  65, 181,  49,  87, 167, 153,  48,
+       22, 108,  98, 236,   3,  72, 228, 126
+    ],
+    isLocked: false,
+    meta: {},
+    publicKey: Uint8Array(32) [
+      192,  10, 105, 255, 230,  28, 248, 214,
+      110, 234, 248, 191, 184,  83, 144, 201,
+       61,  65, 181,  49,  87, 167, 153,  48,
+       22, 108,  98, 236,   3,  72, 228, 126
+    ],
+    type: 'sr25519',
+    decodePkcs8: [Function: decodePkcs8],
+    derive: [Function: derive],
+    encodePkcs8: [Function: encodePkcs8],
+    lock: [Function: lock],
+    setMeta: [Function: setMeta],
+    sign: [Function: sign],
+    toJson: [Function: toJson],
+    unlock: [Function: unlock],
+    verify: [Function: verify],
+    vrfSign: [Function: vrfSign],
+    vrfVerify: [Function: vrfVerify]
+  }
+] debug level 0 assertionMethod
+[
+  {
+    address: '3vFNUsPoryF66QLD83bknhqnY244HfWH8HmbmV85ZaoSkmTX',
+    addressRaw: Uint8Array(32) [
+       62, 185,  50, 242, 158, 239, 106, 130,
+      124,  72, 207,  34, 113,  70, 243, 161,
+      139,  94, 199,  55, 128, 153, 182,  41,
+       89, 104,   6, 144, 188, 106,  14,  68
+    ],
+    isLocked: false,
+    meta: {},
+    publicKey: Uint8Array(32) [
+       62, 185,  50, 242, 158, 239, 106, 130,
+      124,  72, 207,  34, 113,  70, 243, 161,
+      139,  94, 199,  55, 128, 153, 182,  41,
+       89, 104,   6, 144, 188, 106,  14,  68
+    ],
+    type: 'sr25519',
+    decodePkcs8: [Function: decodePkcs8],
+    derive: [Function: derive],
+    encodePkcs8: [Function: encodePkcs8],
+    lock: [Function: lock],
+    setMeta: [Function: setMeta],
+    sign: [Function: sign],
+    toJson: [Function: toJson],
+    unlock: [Function: unlock],
+    verify: [Function: verify],
+    vrfSign: [Function: vrfSign],
+    vrfVerify: [Function: vrfVerify]
+  }
+] debug level 0 capabilityDelegation
+[
+  {
+    publicKey: Uint8Array(32) [
+       99,   2, 206, 124, 249, 216,  65, 133,
+       85, 133, 211, 236,  12, 241, 226, 203,
+       31, 248, 204, 225, 205,  72, 229, 216,
+      103,  34, 115,  50, 251, 232,  11,  28
+    ],
+    secretKey: Uint8Array(32) [
+        5, 214,  65, 246, 172, 160, 238, 236,
+      198, 100,  55,  29, 103,  56,  51,  28,
+      155, 222, 154, 251, 234,  66,  33,  26,
+      127, 151, 191, 126,  99,  63, 232,  15
+    ],
+    type: 'x25519'
+  }
+] debug level 0 keyAgreement
+[
+  {
+    id: '#my-service',
+    type: [ 'service-type' ],
+    serviceEndpoint: [ 'https://www.example.com' ]
+  }
+] debug level 0 service
+{
+  address: '3wN5tx3AicuKs93pihK2q2dafqd9SMPJASP2fitYCwZfBp2U',
+  addressRaw: Uint8Array(32) [
+    112,  20,  82,  31, 174,   4, 121,  87,
+    243, 130, 136, 205, 127, 105, 185,  33,
+    182,  99, 139, 210, 131, 251, 121, 219,
+     39, 195, 120,  36, 111,  18, 118,  29
+  ],
+  isLocked: false,
+  meta: {},
+  publicKey: Uint8Array(32) [
+    112,  20,  82,  31, 174,   4, 121,  87,
+    243, 130, 136, 205, 127, 105, 185,  33,
+    182,  99, 139, 210, 131, 251, 121, 219,
+     39, 195, 120,  36, 111,  18, 118,  29
+  ],
+  type: 'sr25519',
+  decodePkcs8: [Function: decodePkcs8],
+  derive: [Function: derive],
+  encodePkcs8: [Function: encodePkcs8],
+  lock: [Function: lock],
+  setMeta: [Function: setMeta],
+  sign: [Function: sign],
+  toJson: [Function: toJson],
+  unlock: [Function: unlock],
+  verify: [Function: verify],
+  vrfSign: [Function: vrfSign],
+  vrfVerify: [Function: vrfVerify]
+} debug level 0 authenticationKey
+3wN5tx3AicuKs93pihK2q2dafqd9SMPJASP2fitYCwZfBp2U debug level did
+3wuCGwNSR7XmVrXvxQUnWdJZLR9hmNjTsZ6VCyKowFHA3YKJ debug level submitter
+{
+  sr25519: Uint8Array(32) [
+    192,  10, 105, 255, 230,  28, 248, 214,
+    110, 234, 248, 191, 184,  83, 144, 201,
+     61,  65, 181,  49,  87, 167, 153,  48,
+     22, 108,  98, 236,   3,  72, 228, 126
+  ]
+} debug level assertionKey
+{
+  sr25519: Uint8Array(32) [
+     62, 185,  50, 242, 158, 239, 106, 130,
+    124,  72, 207,  34, 113,  70, 243, 161,
+    139,  94, 199,  55, 128, 153, 182,  41,
+     89, 104,   6, 144, 188, 106,  14,  68
+  ]
+} debug level delegationKey
+[
+  {
+    x25519: Uint8Array(32) [
+       99,   2, 206, 124, 249, 216,  65, 133,
+       85, 133, 211, 236,  12, 241, 226, 203,
+       31, 248, 204, 225, 205,  72, 229, 216,
+      103,  34, 115,  50, 251, 232,  11,  28
+    ]
+  }
+] debug level keyAgreementKeys
+[
+  {
+    id: 'my-service',
+    serviceTypes: [ 'service-type' ],
+    urls: [ 'https://www.example.com' ]
+  }
+] debug level serviceDetails
+{
+  did: '3wN5tx3AicuKs93pihK2q2dafqd9SMPJASP2fitYCwZfBp2U',
+  submitter: '3wuCGwNSR7XmVrXvxQUnWdJZLR9hmNjTsZ6VCyKowFHA3YKJ',
+  newAssertionKey: {
+    sr25519: Uint8Array(32) [
+      192,  10, 105, 255, 230,  28, 248, 214,
+      110, 234, 248, 191, 184,  83, 144, 201,
+       61,  65, 181,  49,  87, 167, 153,  48,
+       22, 108,  98, 236,   3,  72, 228, 126
+    ]
+  },
+  newDelegationKey: {
+    sr25519: Uint8Array(32) [
+       62, 185,  50, 242, 158, 239, 106, 130,
+      124,  72, 207,  34, 113,  70, 243, 161,
+      139,  94, 199,  55, 128, 153, 182,  41,
+       89, 104,   6, 144, 188, 106,  14,  68
+    ]
+  },
+  newKeyAgreementKeys: [ { x25519: [Uint8Array] } ],
+  newServiceDetails: [ { id: 'my-service', serviceTypes: [Array], urls: [Array] } ]
+} debug level apiinput
+Uint8Array(217) [
+  112,  20,  82,  31, 174,   4, 121,  87, 243, 130, 136, 205,
+  127, 105, 185,  33, 182,  99, 139, 210, 131, 251, 121, 219,
+   39, 195, 120,  36, 111,  18, 118,  29, 135, 206, 102, 255,
+  122, 148, 166, 180,  21, 185,  23, 104, 171, 219, 209, 234,
+  130, 233, 251,  39, 217, 123, 125,  43, 175, 184,  32, 221,
+  157,  33, 118, 252,   4,   0,  99,   2, 206, 124, 249, 216,
+   65, 133,  85, 133, 211, 236,  12, 241, 226, 203,  31, 248,
+  204, 225, 205,  72, 229, 216, 103,  34, 115,  50, 251, 232,
+   11,  28,   1,   1,
+  ... 117 more items
+] {
+  sr25519: Uint8Array(64) [
+    232,  51, 215, 120, 103,  96, 238, 128,  76, 224, 123,
+     86,  56,  95, 233, 117, 220,   6, 105, 116,  22, 224,
+    213,  71,  53,  72, 200,  56, 239,  79, 206,  38, 144,
+    157, 200, 245, 167,  29,  98, 230, 188,  36, 245, 112,
+    139, 240, 146, 213,  40,  34,  10,  72,  57, 137, 115,
+    123,  72, 191, 200, 141, 165, 131, 107, 135
+  ]
+} debug level DidCall
+{
+  sr25519: Uint8Array(64) [
+    232,  51, 215, 120, 103,  96, 238, 128,  76, 224, 123,
+     86,  56,  95, 233, 117, 220,   6, 105, 116,  22, 224,
+    213,  71,  53,  72, 200,  56, 239,  79, 206,  38, 144,
+    157, 200, 245, 167,  29,  98, 230, 188,  36, 245, 112,
+    139, 240, 146, 213,  40,  34,  10,  72,  57, 137, 115,
+    123,  72, 191, 200, 141, 165, 131, 107, 135
+  ]
+} debug level encodedSignature
+{
+  uri: 'did:cord:3wN5tx3AicuKs93pihK2q2dafqd9SMPJASP2fitYCwZfBp2U',
+  authentication: [
+    {
+      id: '#0x47fe393e6a41b7d4a4fd6725035adaa8bac64da86c953882eaf4fd3fdf0cf3dc',
+      type: 'sr25519',
+      publicKey: [Uint8Array]
+    }
+  ],
+  assertionMethod: [
+    {
+      id: '#0xa0a73f1d023dd4df1d0db513cb0fe945b4b4bbe39a663f3a931a8073e2e05c55',
+      type: 'sr25519',
+      publicKey: [Uint8Array]
+    }
+  ],
+  capabilityDelegation: [
+    {
+      id: '#0x2688092eafb0358c0188ec238d889c9fddb8358102b39e3aea81ef610a2f04fd',
+      type: 'sr25519',
+      publicKey: [Uint8Array]
+    }
+  ],
+  keyAgreement: [
+    {
+      id: '#0x3a9a60d582ede040cfb7b113a0b4670853b21d05781b9877492bd8c1ff0cbfb5',
+      type: 'x25519',
+      publicKey: [Uint8Array]
+    }
+  ],
+  service: [ { id: '#my-service', type: [Array], serviceEndpoint: [Array] } ]
+}
+authentication debug level {
+  address: '3wN5tx3AicuKs93pihK2q2dafqd9SMPJASP2fitYCwZfBp2U',
+  addressRaw: Uint8Array(32) [
+    112,  20,  82,  31, 174,   4, 121,  87,
+    243, 130, 136, 205, 127, 105, 185,  33,
+    182,  99, 139, 210, 131, 251, 121, 219,
+     39, 195, 120,  36, 111,  18, 118,  29
+  ],
+  isLocked: false,
+  meta: {},
+  publicKey: Uint8Array(32) [
+    112,  20,  82,  31, 174,   4, 121,  87,
+    243, 130, 136, 205, 127, 105, 185,  33,
+    182,  99, 139, 210, 131, 251, 121, 219,
+     39, 195, 120,  36, 111,  18, 118,  29
+  ],
+  type: 'sr25519',
+  decodePkcs8: [Function: decodePkcs8],
+  derive: [Function: derive],
+  encodePkcs8: [Function: encodePkcs8],
+  lock: [Function: lock],
+  setMeta: [Function: setMeta],
+  sign: [Function: sign],
+  toJson: [Function: toJson],
+  unlock: [Function: unlock],
+  verify: [Function: verify],
+  vrfSign: [Function: vrfSign],
+  vrfVerify: [Function: vrfVerify]
+}
+🏛   Issuer (sr25519): did:cord:3wN5tx3AicuKs93pihK2q2dafqd9SMPJASP2fitYCwZfBp2U
+{
+  id: [32m'did:cord:3wN5tx3AicuKs93pihK2q2dafqd9SMPJASP2fitYCwZfBp2U'[39m,
+  verificationMethod: [
+    {
+      id: [32m'did:cord:3wN5tx3AicuKs93pihK2q2dafqd9SMPJASP2fitYCwZfBp2U#0x47fe393e6a41b7d4a4fd6725035adaa8bac64da86c953882eaf4fd3fdf0cf3dc'[39m,
+      controller: [32m'did:cord:3wN5tx3AicuKs93pihK2q2dafqd9SMPJASP2fitYCwZfBp2U'[39m,
+      type: [32m'Sr25519VerificationKey2020'[39m,
+      publicKeyBase58: [32m'8YWdmf1v13gp27LkE76cS2t7my6hAYdsVw9CENkMVjun'[39m
+    },
+    {
+      id: [32m'did:cord:3wN5tx3AicuKs93pihK2q2dafqd9SMPJASP2fitYCwZfBp2U#0xa0a73f1d023dd4df1d0db513cb0fe945b4b4bbe39a663f3a931a8073e2e05c55'[39m,
+      controller: [32m'did:cord:3wN5tx3AicuKs93pihK2q2dafqd9SMPJASP2fitYCwZfBp2U'[39m,
+      type: [32m'Sr25519VerificationKey2020'[39m,
+      publicKeyBase58: [32m'DveVKNHHNrqnCFABc4r3WKd9QuhGJTE4xr4pHBDwTM6V'[39m
+    },
+    {
+      id: [32m'did:cord:3wN5tx3AicuKs93pihK2q2dafqd9SMPJASP2fitYCwZfBp2U#0x2688092eafb0358c0188ec238d889c9fddb8358102b39e3aea81ef610a2f04fd'[39m,
+      controller: [32m'did:cord:3wN5tx3AicuKs93pihK2q2dafqd9SMPJASP2fitYCwZfBp2U'[39m,
+      type: [32m'Sr25519VerificationKey2020'[39m,
+      publicKeyBase58: [32m'5Dr4xTJq3nimqLsfDcTEHrae25mBEHiE1oi1Gn2V1RWs'[39m
+    },
+    {
+      id: [32m'did:cord:3wN5tx3AicuKs93pihK2q2dafqd9SMPJASP2fitYCwZfBp2U#0x3a9a60d582ede040cfb7b113a0b4670853b21d05781b9877492bd8c1ff0cbfb5'[39m,
+      controller: [32m'did:cord:3wN5tx3AicuKs93pihK2q2dafqd9SMPJASP2fitYCwZfBp2U'[39m,
+      type: [32m'X25519KeyAgreementKey2019'[39m,
+      publicKeyBase58: [32m'7fVqy3HM82NJjnJDv7kZPCeeB2KY6PdUMpyqrxBcRENP'[39m
+    }
+  ],
+  authentication: [
+    [32m'did:cord:3wN5tx3AicuKs93pihK2q2dafqd9SMPJASP2fitYCwZfBp2U#0x47fe393e6a41b7d4a4fd6725035adaa8bac64da86c953882eaf4fd3fdf0cf3dc'[39m
+  ],
+  assertionMethod: [
+    [32m'did:cord:3wN5tx3AicuKs93pihK2q2dafqd9SMPJASP2fitYCwZfBp2U#0xa0a73f1d023dd4df1d0db513cb0fe945b4b4bbe39a663f3a931a8073e2e05c55'[39m
+  ],
+  capabilityDelegation: [
+    [32m'did:cord:3wN5tx3AicuKs93pihK2q2dafqd9SMPJASP2fitYCwZfBp2U#0x2688092eafb0358c0188ec238d889c9fddb8358102b39e3aea81ef610a2f04fd'[39m
+  ],
+  keyAgreement: [
+    [32m'did:cord:3wN5tx3AicuKs93pihK2q2dafqd9SMPJASP2fitYCwZfBp2U#0x3a9a60d582ede040cfb7b113a0b4670853b21d05781b9877492bd8c1ff0cbfb5'[39m
+  ],
+  service: [
+    {
+      id: [32m'did:cord:3wN5tx3AicuKs93pihK2q2dafqd9SMPJASP2fitYCwZfBp2U#my-service'[39m,
+      type: [ [32m'service-type'[39m ],
+      serviceEndpoint: [ [32m'https://www.example.com'[39m ]
+    }
+  ]
+}
+authentication debug level {
+  address: '3tr6F3bXiGgSZCGKgGYSddSZkiJ46v9t7tPWG1RjFfphWiMr',
+  addressRaw: Uint8Array(32) [
+      0, 187, 168, 122,  40,  95, 136,  78,
+    116, 136, 125, 111,   2,  67,  15,   4,
+    209,  26,  34,  42, 117,  70, 160, 204,
+    124,  11, 155, 221, 117, 211, 187,  71
+  ],
+  isLocked: false,
+  meta: {},
+  publicKey: Uint8Array(32) [
+      0, 187, 168, 122,  40,  95, 136,  78,
+    116, 136, 125, 111,   2,  67,  15,   4,
+    209,  26,  34,  42, 117,  70, 160, 204,
+    124,  11, 155, 221, 117, 211, 187,  71
+  ],
+  type: 'sr25519',
+  decodePkcs8: [Function: decodePkcs8],
+  derive: [Function: derive],
+  encodePkcs8: [Function: encodePkcs8],
+  lock: [Function: lock],
+  setMeta: [Function: setMeta],
+  sign: [Function: sign],
+  toJson: [Function: toJson],
+  unlock: [Function: unlock],
+  verify: [Function: verify],
+  vrfSign: [Function: vrfSign],
+  vrfVerify: [Function: vrfVerify]
+}
+[
+  {
+    address: '3tr6F3bXiGgSZCGKgGYSddSZkiJ46v9t7tPWG1RjFfphWiMr',
+    addressRaw: Uint8Array(32) [
+        0, 187, 168, 122,  40,  95, 136,  78,
+      116, 136, 125, 111,   2,  67,  15,   4,
+      209,  26,  34,  42, 117,  70, 160, 204,
+      124,  11, 155, 221, 117, 211, 187,  71
+    ],
+    isLocked: false,
+    meta: {},
+    publicKey: Uint8Array(32) [
+        0, 187, 168, 122,  40,  95, 136,  78,
+      116, 136, 125, 111,   2,  67,  15,   4,
+      209,  26,  34,  42, 117,  70, 160, 204,
+      124,  11, 155, 221, 117, 211, 187,  71
+    ],
+    type: 'sr25519',
+    decodePkcs8: [Function: decodePkcs8],
+    derive: [Function: derive],
+    encodePkcs8: [Function: encodePkcs8],
+    lock: [Function: lock],
+    setMeta: [Function: setMeta],
+    sign: [Function: sign],
+    toJson: [Function: toJson],
+    unlock: [Function: unlock],
+    verify: [Function: verify],
+    vrfSign: [Function: vrfSign],
+    vrfVerify: [Function: vrfVerify]
+  }
+] debug level 0 authentication
+[
+  {
+    address: '3xTb5kKmNekzHvQZ8Mk3LVCKsQYEanCPezxBXweZejnw5NH8',
+    addressRaw: Uint8Array(32) [
+      160, 131,   7, 219,  30, 114, 224,  92,
+       37,  79, 145,  82, 192, 228, 232, 195,
+      136,  96, 203, 125, 194,  32, 180, 180,
+        4, 188, 200, 130,  31, 237,  92,  70
+    ],
+    isLocked: false,
+    meta: {},
+    publicKey: Uint8Array(32) [
+      160, 131,   7, 219,  30, 114, 224,  92,
+       37,  79, 145,  82, 192, 228, 232, 195,
+      136,  96, 203, 125, 194,  32, 180, 180,
+        4, 188, 200, 130,  31, 237,  92,  70
+    ],
+    type: 'sr25519',
+    decodePkcs8: [Function: decodePkcs8],
+    derive: [Function: derive],
+    encodePkcs8: [Function: encodePkcs8],
+    lock: [Function: lock],
+    setMeta: [Function: setMeta],
+    sign: [Function: sign],
+    toJson: [Function: toJson],
+    unlock: [Function: unlock],
+    verify: [Function: verify],
+    vrfSign: [Function: vrfSign],
+    vrfVerify: [Function: vrfVerify]
+  }
+] debug level 0 assertionMethod
+[
+  {
+    address: '3zGjCrBVbiWmQSuX45UnXMcRsBGk49BuErvMqYgELWmEeB6o',
+    addressRaw: Uint8Array(32) [
+      240, 179,  36,   3, 235,  76, 148,  55,
+      243,  87, 212, 186, 142, 138, 147, 100,
+      150, 136,  41, 137, 167, 181,  94, 236,
+      209,  41,  20, 236, 219,  56, 124, 110
+    ],
+    isLocked: false,
+    meta: {},
+    publicKey: Uint8Array(32) [
+      240, 179,  36,   3, 235,  76, 148,  55,
+      243,  87, 212, 186, 142, 138, 147, 100,
+      150, 136,  41, 137, 167, 181,  94, 236,
+      209,  41,  20, 236, 219,  56, 124, 110
+    ],
+    type: 'sr25519',
+    decodePkcs8: [Function: decodePkcs8],
+    derive: [Function: derive],
+    encodePkcs8: [Function: encodePkcs8],
+    lock: [Function: lock],
+    setMeta: [Function: setMeta],
+    sign: [Function: sign],
+    toJson: [Function: toJson],
+    unlock: [Function: unlock],
+    verify: [Function: verify],
+    vrfSign: [Function: vrfSign],
+    vrfVerify: [Function: vrfVerify]
+  }
+] debug level 0 capabilityDelegation
+[
+  {
+    publicKey: Uint8Array(32) [
+      189, 226, 100,  62, 109,  45,  29, 108,
+      243,  57, 192, 150,  97, 254,  33,  63,
+      241, 206, 119,  30, 234, 149, 224, 246,
+       66,  47, 194, 229, 177,  96,  92, 126
+    ],
+    secretKey: Uint8Array(32) [
+      193,  26, 171, 240, 135,  31,  15, 162,
+      201, 152, 214, 225,  15,  51, 178,  35,
+       40,  32, 195, 253,  22,  94, 164, 213,
+      176, 220, 183,  33,  29, 252,  31,   5
+    ],
+    type: 'x25519'
+  }
+] debug level 0 keyAgreement
+[
+  {
+    id: '#my-service',
+    type: [ 'service-type' ],
+    serviceEndpoint: [ 'https://www.example.com' ]
+  }
+] debug level 0 service
+{
+  address: '3tr6F3bXiGgSZCGKgGYSddSZkiJ46v9t7tPWG1RjFfphWiMr',
+  addressRaw: Uint8Array(32) [
+      0, 187, 168, 122,  40,  95, 136,  78,
+    116, 136, 125, 111,   2,  67,  15,   4,
+    209,  26,  34,  42, 117,  70, 160, 204,
+    124,  11, 155, 221, 117, 211, 187,  71
+  ],
+  isLocked: false,
+  meta: {},
+  publicKey: Uint8Array(32) [
+      0, 187, 168, 122,  40,  95, 136,  78,
+    116, 136, 125, 111,   2,  67,  15,   4,
+    209,  26,  34,  42, 117,  70, 160, 204,
+    124,  11, 155, 221, 117, 211, 187,  71
+  ],
+  type: 'sr25519',
+  decodePkcs8: [Function: decodePkcs8],
+  derive: [Function: derive],
+  encodePkcs8: [Function: encodePkcs8],
+  lock: [Function: lock],
+  setMeta: [Function: setMeta],
+  sign: [Function: sign],
+  toJson: [Function: toJson],
+  unlock: [Function: unlock],
+  verify: [Function: verify],
+  vrfSign: [Function: vrfSign],
+  vrfVerify: [Function: vrfVerify]
+} debug level 0 authenticationKey
+3tr6F3bXiGgSZCGKgGYSddSZkiJ46v9t7tPWG1RjFfphWiMr debug level did
+3wuCGwNSR7XmVrXvxQUnWdJZLR9hmNjTsZ6VCyKowFHA3YKJ debug level submitter
+{
+  sr25519: Uint8Array(32) [
+    160, 131,   7, 219,  30, 114, 224,  92,
+     37,  79, 145,  82, 192, 228, 232, 195,
+    136,  96, 203, 125, 194,  32, 180, 180,
+      4, 188, 200, 130,  31, 237,  92,  70
+  ]
+} debug level assertionKey
+{
+  sr25519: Uint8Array(32) [
+    240, 179,  36,   3, 235,  76, 148,  55,
+    243,  87, 212, 186, 142, 138, 147, 100,
+    150, 136,  41, 137, 167, 181,  94, 236,
+    209,  41,  20, 236, 219,  56, 124, 110
+  ]
+} debug level delegationKey
+[
+  {
+    x25519: Uint8Array(32) [
+      189, 226, 100,  62, 109,  45,  29, 108,
+      243,  57, 192, 150,  97, 254,  33,  63,
+      241, 206, 119,  30, 234, 149, 224, 246,
+       66,  47, 194, 229, 177,  96,  92, 126
+    ]
+  }
+] debug level keyAgreementKeys
+[
+  {
+    id: 'my-service',
+    serviceTypes: [ 'service-type' ],
+    urls: [ 'https://www.example.com' ]
+  }
+] debug level serviceDetails
+{
+  did: '3tr6F3bXiGgSZCGKgGYSddSZkiJ46v9t7tPWG1RjFfphWiMr',
+  submitter: '3wuCGwNSR7XmVrXvxQUnWdJZLR9hmNjTsZ6VCyKowFHA3YKJ',
+  newAssertionKey: {
+    sr25519: Uint8Array(32) [
+      160, 131,   7, 219,  30, 114, 224,  92,
+       37,  79, 145,  82, 192, 228, 232, 195,
+      136,  96, 203, 125, 194,  32, 180, 180,
+        4, 188, 200, 130,  31, 237,  92,  70
+    ]
+  },
+  newDelegationKey: {
+    sr25519: Uint8Array(32) [
+      240, 179,  36,   3, 235,  76, 148,  55,
+      243,  87, 212, 186, 142, 138, 147, 100,
+      150, 136,  41, 137, 167, 181,  94, 236,
+      209,  41,  20, 236, 219,  56, 124, 110
+    ]
+  },
+  newKeyAgreementKeys: [ { x25519: [Uint8Array] } ],
+  newServiceDetails: [ { id: 'my-service', serviceTypes: [Array], urls: [Array] } ]
+} debug level apiinput
+Uint8Array(217) [
+    0, 187, 168, 122,  40,  95, 136,  78, 116, 136, 125, 111,
+    2,  67,  15,   4, 209,  26,  34,  42, 117,  70, 160, 204,
+  124,  11, 155, 221, 117, 211, 187,  71, 135, 206, 102, 255,
+  122, 148, 166, 180,  21, 185,  23, 104, 171, 219, 209, 234,
+  130, 233, 251,  39, 217, 123, 125,  43, 175, 184,  32, 221,
+  157,  33, 118, 252,   4,   0, 189, 226, 100,  62, 109,  45,
+   29, 108, 243,  57, 192, 150,  97, 254,  33,  63, 241, 206,
+  119,  30, 234, 149, 224, 246,  66,  47, 194, 229, 177,  96,
+   92, 126,   1,   1,
+  ... 117 more items
+] {
+  sr25519: Uint8Array(64) [
+    104,  43,  78, 114, 209,   3,  11, 155,  82, 112,   3,
+    171, 176, 127, 241,  23, 221, 109, 242, 241,  54,  25,
+    239,  33, 104, 147,   0, 118, 119, 247,  70,  14, 176,
+      3, 144, 197,  56, 158, 205, 148, 108, 217, 118, 194,
+    190, 188, 247, 144, 224,  33, 215, 207, 112, 141, 251,
+      9, 242,  94,  76, 106,  85,  79, 136, 136
+  ]
+} debug level DidCall
+{
+  sr25519: Uint8Array(64) [
+    104,  43,  78, 114, 209,   3,  11, 155,  82, 112,   3,
+    171, 176, 127, 241,  23, 221, 109, 242, 241,  54,  25,
+    239,  33, 104, 147,   0, 118, 119, 247,  70,  14, 176,
+      3, 144, 197,  56, 158, 205, 148, 108, 217, 118, 194,
+    190, 188, 247, 144, 224,  33, 215, 207, 112, 141, 251,
+      9, 242,  94,  76, 106,  85,  79, 136, 136
+  ]
+} debug level encodedSignature
+{
+  uri: 'did:cord:3tr6F3bXiGgSZCGKgGYSddSZkiJ46v9t7tPWG1RjFfphWiMr',
+  authentication: [
+    {
+      id: '#0xf38a32d46df244472d121654c4ec5667a7c2febd463c15c069380afceb876464',
+      type: 'sr25519',
+      publicKey: [Uint8Array]
+    }
+  ],
+  assertionMethod: [
+    {
+      id: '#0x876ae1b677f5100c447305294ad153556621bedc04ec0a7de6d3576fcadf251e',
+      type: 'sr25519',
+      publicKey: [Uint8Array]
+    }
+  ],
+  capabilityDelegation: [
+    {
+      id: '#0xffa20e88c57848b2d497969db5e2f2aac467efe5a01655013434fa3a64037706',
+      type: 'sr25519',
+      publicKey: [Uint8Array]
+    }
+  ],
+  keyAgreement: [
+    {
+      id: '#0x7ce6e3a49986da2047c5c0c84dc5d87cc14e58d6355a28dd463789f565980240',
+      type: 'x25519',
+      publicKey: [Uint8Array]
+    }
+  ],
+  service: [ { id: '#my-service', type: [Array], serviceEndpoint: [Array] } ]
+}
+authentication debug level {
+  address: '3tr6F3bXiGgSZCGKgGYSddSZkiJ46v9t7tPWG1RjFfphWiMr',
+  addressRaw: Uint8Array(32) [
+      0, 187, 168, 122,  40,  95, 136,  78,
+    116, 136, 125, 111,   2,  67,  15,   4,
+    209,  26,  34,  42, 117,  70, 160, 204,
+    124,  11, 155, 221, 117, 211, 187,  71
+  ],
+  isLocked: false,
+  meta: {},
+  publicKey: Uint8Array(32) [
+      0, 187, 168, 122,  40,  95, 136,  78,
+    116, 136, 125, 111,   2,  67,  15,   4,
+    209,  26,  34,  42, 117,  70, 160, 204,
+    124,  11, 155, 221, 117, 211, 187,  71
+  ],
+  type: 'sr25519',
+  decodePkcs8: [Function: decodePkcs8],
+  derive: [Function: derive],
+  encodePkcs8: [Function: encodePkcs8],
+  lock: [Function: lock],
+  setMeta: [Function: setMeta],
+  sign: [Function: sign],
+  toJson: [Function: toJson],
+  unlock: [Function: unlock],
+  verify: [Function: verify],
+  vrfSign: [Function: vrfSign],
+  vrfVerify: [Function: vrfVerify]
+}
+🏛   Delegate (sr25519): did:cord:3tr6F3bXiGgSZCGKgGYSddSZkiJ46v9t7tPWG1RjFfphWiMr
+authentication debug level {
+  address: '3ucjnffRHyahw3Rdg1DkFdL2hzb6zHDHnnyQdutSeLpyHj5k',
+  addressRaw: Uint8Array(32) [
+     34, 200, 216,  37, 254, 129,   1,  23,
+    246,  93,  72,  92, 163, 122, 228,  24,
+    127, 141,  50, 239, 160, 137,  82, 160,
+     21,  36, 249, 176,  78, 132,  15,  92
+  ],
+  isLocked: false,
+  meta: {},
+  publicKey: Uint8Array(32) [
+     34, 200, 216,  37, 254, 129,   1,  23,
+    246,  93,  72,  92, 163, 122, 228,  24,
+    127, 141,  50, 239, 160, 137,  82, 160,
+     21,  36, 249, 176,  78, 132,  15,  92
+  ],
+  type: 'sr25519',
+  decodePkcs8: [Function: decodePkcs8],
+  derive: [Function: derive],
+  encodePkcs8: [Function: encodePkcs8],
+  lock: [Function: lock],
+  setMeta: [Function: setMeta],
+  sign: [Function: sign],
+  toJson: [Function: toJson],
+  unlock: [Function: unlock],
+  verify: [Function: verify],
+  vrfSign: [Function: vrfSign],
+  vrfVerify: [Function: vrfVerify]
+}
+[
+  {
+    address: '3ucjnffRHyahw3Rdg1DkFdL2hzb6zHDHnnyQdutSeLpyHj5k',
+    addressRaw: Uint8Array(32) [
+       34, 200, 216,  37, 254, 129,   1,  23,
+      246,  93,  72,  92, 163, 122, 228,  24,
+      127, 141,  50, 239, 160, 137,  82, 160,
+       21,  36, 249, 176,  78, 132,  15,  92
+    ],
+    isLocked: false,
+    meta: {},
+    publicKey: Uint8Array(32) [
+       34, 200, 216,  37, 254, 129,   1,  23,
+      246,  93,  72,  92, 163, 122, 228,  24,
+      127, 141,  50, 239, 160, 137,  82, 160,
+       21,  36, 249, 176,  78, 132,  15,  92
+    ],
+    type: 'sr25519',
+    decodePkcs8: [Function: decodePkcs8],
+    derive: [Function: derive],
+    encodePkcs8: [Function: encodePkcs8],
+    lock: [Function: lock],
+    setMeta: [Function: setMeta],
+    sign: [Function: sign],
+    toJson: [Function: toJson],
+    unlock: [Function: unlock],
+    verify: [Function: verify],
+    vrfSign: [Function: vrfSign],
+    vrfVerify: [Function: vrfVerify]
+  }
+] debug level 0 authentication
+[
+  {
+    address: '3zJcMdGYspAeoXvxc8zzLDJ1tHrhCyVEURohYjYbn2VbHR4Z',
+    addressRaw: Uint8Array(32) [
+      242,  34, 147, 171,   4,  75,   1, 236,
+       18, 253, 207, 106, 160, 117, 245, 174,
+      210, 144, 203, 235, 137,  70, 235, 212,
+      136, 104,  53, 142,  40, 151,  25,  84
+    ],
+    isLocked: false,
+    meta: {},
+    publicKey: Uint8Array(32) [
+      242,  34, 147, 171,   4,  75,   1, 236,
+       18, 253, 207, 106, 160, 117, 245, 174,
+      210, 144, 203, 235, 137,  70, 235, 212,
+      136, 104,  53, 142,  40, 151,  25,  84
+    ],
+    type: 'sr25519',
+    decodePkcs8: [Function: decodePkcs8],
+    derive: [Function: derive],
+    encodePkcs8: [Function: encodePkcs8],
+    lock: [Function: lock],
+    setMeta: [Function: setMeta],
+    sign: [Function: sign],
+    toJson: [Function: toJson],
+    unlock: [Function: unlock],
+    verify: [Function: verify],
+    vrfSign: [Function: vrfSign],
+    vrfVerify: [Function: vrfVerify]
+  }
+] debug level 0 assertionMethod
+[
+  {
+    address: '3zQgqvw19xKUFLatrT5Rgb3uGrCRJV1bFv5Epv4CiusKfpkk',
+    addressRaw: Uint8Array(32) [
+      246, 197,  40,  64, 228,  83, 160,  56,
+       74,  18, 139, 124, 244,  65, 227, 152,
+      195, 145,  15,  48,  32,  40,  10, 169,
+      130,  15, 181,  30,  87, 230,  32,  89
+    ],
+    isLocked: false,
+    meta: {},
+    publicKey: Uint8Array(32) [
+      246, 197,  40,  64, 228,  83, 160,  56,
+       74,  18, 139, 124, 244,  65, 227, 152,
+      195, 145,  15,  48,  32,  40,  10, 169,
+      130,  15, 181,  30,  87, 230,  32,  89
+    ],
+    type: 'sr25519',
+    decodePkcs8: [Function: decodePkcs8],
+    derive: [Function: derive],
+    encodePkcs8: [Function: encodePkcs8],
+    lock: [Function: lock],
+    setMeta: [Function: setMeta],
+    sign: [Function: sign],
+    toJson: [Function: toJson],
+    unlock: [Function: unlock],
+    verify: [Function: verify],
+    vrfSign: [Function: vrfSign],
+    vrfVerify: [Function: vrfVerify]
+  }
+] debug level 0 capabilityDelegation
+[
+  {
+    publicKey: Uint8Array(32) [
+      210,  16, 236,   5,  71,  94, 244, 122,
+      182,  89, 174, 197,  90, 173, 168, 234,
+      228, 209,   5, 242, 168, 160,  37,  46,
+       96, 169, 237,  96,  39, 130,  61,  95
+    ],
+    secretKey: Uint8Array(32) [
+       27, 206,  61, 228, 181,  66,  86, 163,
+       49,  18,  31, 238, 158, 162, 149, 116,
+       60, 202, 184, 254,  35, 164, 204, 237,
+      170, 204, 204,  91, 146,  88,  27,  85
+    ],
+    type: 'x25519'
+  }
+] debug level 0 keyAgreement
+[
+  {
+    id: '#my-service',
+    type: [ 'service-type' ],
+    serviceEndpoint: [ 'https://www.example.com' ]
+  }
+] debug level 0 service
+{
+  address: '3ucjnffRHyahw3Rdg1DkFdL2hzb6zHDHnnyQdutSeLpyHj5k',
+  addressRaw: Uint8Array(32) [
+     34, 200, 216,  37, 254, 129,   1,  23,
+    246,  93,  72,  92, 163, 122, 228,  24,
+    127, 141,  50, 239, 160, 137,  82, 160,
+     21,  36, 249, 176,  78, 132,  15,  92
+  ],
+  isLocked: false,
+  meta: {},
+  publicKey: Uint8Array(32) [
+     34, 200, 216,  37, 254, 129,   1,  23,
+    246,  93,  72,  92, 163, 122, 228,  24,
+    127, 141,  50, 239, 160, 137,  82, 160,
+     21,  36, 249, 176,  78, 132,  15,  92
+  ],
+  type: 'sr25519',
+  decodePkcs8: [Function: decodePkcs8],
+  derive: [Function: derive],
+  encodePkcs8: [Function: encodePkcs8],
+  lock: [Function: lock],
+  setMeta: [Function: setMeta],
+  sign: [Function: sign],
+  toJson: [Function: toJson],
+  unlock: [Function: unlock],
+  verify: [Function: verify],
+  vrfSign: [Function: vrfSign],
+  vrfVerify: [Function: vrfVerify]
+} debug level 0 authenticationKey
+3ucjnffRHyahw3Rdg1DkFdL2hzb6zHDHnnyQdutSeLpyHj5k debug level did
+3wuCGwNSR7XmVrXvxQUnWdJZLR9hmNjTsZ6VCyKowFHA3YKJ debug level submitter
+{
+  sr25519: Uint8Array(32) [
+    242,  34, 147, 171,   4,  75,   1, 236,
+     18, 253, 207, 106, 160, 117, 245, 174,
+    210, 144, 203, 235, 137,  70, 235, 212,
+    136, 104,  53, 142,  40, 151,  25,  84
+  ]
+} debug level assertionKey
+{
+  sr25519: Uint8Array(32) [
+    246, 197,  40,  64, 228,  83, 160,  56,
+     74,  18, 139, 124, 244,  65, 227, 152,
+    195, 145,  15,  48,  32,  40,  10, 169,
+    130,  15, 181,  30,  87, 230,  32,  89
+  ]
+} debug level delegationKey
+[
+  {
+    x25519: Uint8Array(32) [
+      210,  16, 236,   5,  71,  94, 244, 122,
+      182,  89, 174, 197,  90, 173, 168, 234,
+      228, 209,   5, 242, 168, 160,  37,  46,
+       96, 169, 237,  96,  39, 130,  61,  95
+    ]
+  }
+] debug level keyAgreementKeys
+[
+  {
+    id: 'my-service',
+    serviceTypes: [ 'service-type' ],
+    urls: [ 'https://www.example.com' ]
+  }
+] debug level serviceDetails
+{
+  did: '3ucjnffRHyahw3Rdg1DkFdL2hzb6zHDHnnyQdutSeLpyHj5k',
+  submitter: '3wuCGwNSR7XmVrXvxQUnWdJZLR9hmNjTsZ6VCyKowFHA3YKJ',
+  newAssertionKey: {
+    sr25519: Uint8Array(32) [
+      242,  34, 147, 171,   4,  75,   1, 236,
+       18, 253, 207, 106, 160, 117, 245, 174,
+      210, 144, 203, 235, 137,  70, 235, 212,
+      136, 104,  53, 142,  40, 151,  25,  84
+    ]
+  },
+  newDelegationKey: {
+    sr25519: Uint8Array(32) [
+      246, 197,  40,  64, 228,  83, 160,  56,
+       74,  18, 139, 124, 244,  65, 227, 152,
+      195, 145,  15,  48,  32,  40,  10, 169,
+      130,  15, 181,  30,  87, 230,  32,  89
+    ]
+  },
+  newKeyAgreementKeys: [ { x25519: [Uint8Array] } ],
+  newServiceDetails: [ { id: 'my-service', serviceTypes: [Array], urls: [Array] } ]
+} debug level apiinput
+Uint8Array(217) [
+   34, 200, 216,  37, 254, 129,   1,  23, 246,  93,  72,  92,
+  163, 122, 228,  24, 127, 141,  50, 239, 160, 137,  82, 160,
+   21,  36, 249, 176,  78, 132,  15,  92, 135, 206, 102, 255,
+  122, 148, 166, 180,  21, 185,  23, 104, 171, 219, 209, 234,
+  130, 233, 251,  39, 217, 123, 125,  43, 175, 184,  32, 221,
+  157,  33, 118, 252,   4,   0, 210,  16, 236,   5,  71,  94,
+  244, 122, 182,  89, 174, 197,  90, 173, 168, 234, 228, 209,
+    5, 242, 168, 160,  37,  46,  96, 169, 237,  96,  39, 130,
+   61,  95,   1,   1,
+  ... 117 more items
+] {
+  sr25519: Uint8Array(64) [
+    234,  90, 213, 111, 160, 184, 123,   2, 218,  37, 241,
+    207,  26, 141,   5,   8,  73, 184,  76, 213, 166, 241,
+     95, 146, 209, 227, 103, 142,  98, 236, 171,  42,  75,
+    192,  53, 195, 104, 151, 232, 199,  14, 206, 100,   8,
+     80, 205, 251, 151,  17, 223, 156, 247,  99, 148, 105,
+     13, 181, 199,  59, 235,  76,  18, 123, 131
+  ]
+} debug level DidCall
+{
+  sr25519: Uint8Array(64) [
+    234,  90, 213, 111, 160, 184, 123,   2, 218,  37, 241,
+    207,  26, 141,   5,   8,  73, 184,  76, 213, 166, 241,
+     95, 146, 209, 227, 103, 142,  98, 236, 171,  42,  75,
+    192,  53, 195, 104, 151, 232, 199,  14, 206, 100,   8,
+     80, 205, 251, 151,  17, 223, 156, 247,  99, 148, 105,
+     13, 181, 199,  59, 235,  76,  18, 123, 131
+  ]
+} debug level encodedSignature
+{
+  uri: 'did:cord:3ucjnffRHyahw3Rdg1DkFdL2hzb6zHDHnnyQdutSeLpyHj5k',
+  authentication: [
+    {
+      id: '#0x9ef10ce8c6096ed91f57fd7874460c199e3ffc42cf57136292a707b7f03d22db',
+      type: 'sr25519',
+      publicKey: [Uint8Array]
+    }
+  ],
+  assertionMethod: [
+    {
+      id: '#0xc790ea34e589c5603f229e90c87bfb52ad293737c671f44adfdd8907ca212734',
+      type: 'sr25519',
+      publicKey: [Uint8Array]
+    }
+  ],
+  capabilityDelegation: [
+    {
+      id: '#0x211c56654397b9a1e5f906dd8abafae8d6794f547671c7a77143406499e3aa5b',
+      type: 'sr25519',
+      publicKey: [Uint8Array]
+    }
+  ],
+  keyAgreement: [
+    {
+      id: '#0x6925a5a41c373d4b1f6dc9d9be30b98d10e6aad498a18096d829babdc6d8bfc0',
+      type: 'x25519',
+      publicKey: [Uint8Array]
+    }
+  ],
+  service: [ { id: '#my-service', type: [Array], serviceEndpoint: [Array] } ]
+}
+authentication debug level {
+  address: '3ucjnffRHyahw3Rdg1DkFdL2hzb6zHDHnnyQdutSeLpyHj5k',
+  addressRaw: Uint8Array(32) [
+     34, 200, 216,  37, 254, 129,   1,  23,
+    246,  93,  72,  92, 163, 122, 228,  24,
+    127, 141,  50, 239, 160, 137,  82, 160,
+     21,  36, 249, 176,  78, 132,  15,  92
+  ],
+  isLocked: false,
+  meta: {},
+  publicKey: Uint8Array(32) [
+     34, 200, 216,  37, 254, 129,   1,  23,
+    246,  93,  72,  92, 163, 122, 228,  24,
+    127, 141,  50, 239, 160, 137,  82, 160,
+     21,  36, 249, 176,  78, 132,  15,  92
+  ],
+  type: 'sr25519',
+  decodePkcs8: [Function: decodePkcs8],
+  derive: [Function: derive],
+  encodePkcs8: [Function: encodePkcs8],
+  lock: [Function: lock],
+  setMeta: [Function: setMeta],
+  sign: [Function: sign],
+  toJson: [Function: toJson],
+  unlock: [Function: unlock],
+  verify: [Function: verify],
+  vrfSign: [Function: vrfSign],
+  vrfVerify: [Function: vrfVerify]
+}
+🏛   Delegate (sr25519): did:cord:3ucjnffRHyahw3Rdg1DkFdL2hzb6zHDHnnyQdutSeLpyHj5k
+authentication debug level {
+  address: '3vX7fMRQSgm7ZVPizxXC2NTuMB3D9ZTiRaS8M3pvE5jAHQDM',
+  addressRaw: Uint8Array(32) [
+     74, 187,  61,  75,  14,  65,  85, 123,
+     30, 115,  74,  11,  84,  52,  57,  43,
+    169,  78, 225, 218, 160, 176, 114, 169,
+    238, 213,  69, 197, 189, 190,  11,  52
+  ],
+  isLocked: false,
+  meta: {},
+  publicKey: Uint8Array(32) [
+     74, 187,  61,  75,  14,  65,  85, 123,
+     30, 115,  74,  11,  84,  52,  57,  43,
+    169,  78, 225, 218, 160, 176, 114, 169,
+    238, 213,  69, 197, 189, 190,  11,  52
+  ],
+  type: 'sr25519',
+  decodePkcs8: [Function: decodePkcs8],
+  derive: [Function: derive],
+  encodePkcs8: [Function: encodePkcs8],
+  lock: [Function: lock],
+  setMeta: [Function: setMeta],
+  sign: [Function: sign],
+  toJson: [Function: toJson],
+  unlock: [Function: unlock],
+  verify: [Function: verify],
+  vrfSign: [Function: vrfSign],
+  vrfVerify: [Function: vrfVerify]
+}
+[
+  {
+    address: '3vX7fMRQSgm7ZVPizxXC2NTuMB3D9ZTiRaS8M3pvE5jAHQDM',
+    addressRaw: Uint8Array(32) [
+       74, 187,  61,  75,  14,  65,  85, 123,
+       30, 115,  74,  11,  84,  52,  57,  43,
+      169,  78, 225, 218, 160, 176, 114, 169,
+      238, 213,  69, 197, 189, 190,  11,  52
+    ],
+    isLocked: false,
+    meta: {},
+    publicKey: Uint8Array(32) [
+       74, 187,  61,  75,  14,  65,  85, 123,
+       30, 115,  74,  11,  84,  52,  57,  43,
+      169,  78, 225, 218, 160, 176, 114, 169,
+      238, 213,  69, 197, 189, 190,  11,  52
+    ],
+    type: 'sr25519',
+    decodePkcs8: [Function: decodePkcs8],
+    derive: [Function: derive],
+    encodePkcs8: [Function: encodePkcs8],
+    lock: [Function: lock],
+    setMeta: [Function: setMeta],
+    sign: [Function: sign],
+    toJson: [Function: toJson],
+    unlock: [Function: unlock],
+    verify: [Function: verify],
+    vrfSign: [Function: vrfSign],
+    vrfVerify: [Function: vrfVerify]
+  }
+] debug level 0 authentication
+[
+  {
+    address: '3uNyrd1QyZmNoKamWHNKwEjkKMGryfM22678Hh5itJ5tsJFG',
+    addressRaw: Uint8Array(32) [
+       24,  74, 196,  48, 232, 116,  78, 154,
+      108, 129,  42,  75, 124,  85, 245,  13,
+       86, 102, 206, 242,  59, 158,  74, 201,
+       87,  98,   6,  86, 215,  77,  59,  31
+    ],
+    isLocked: false,
+    meta: {},
+    publicKey: Uint8Array(32) [
+       24,  74, 196,  48, 232, 116,  78, 154,
+      108, 129,  42,  75, 124,  85, 245,  13,
+       86, 102, 206, 242,  59, 158,  74, 201,
+       87,  98,   6,  86, 215,  77,  59,  31
+    ],
+    type: 'sr25519',
+    decodePkcs8: [Function: decodePkcs8],
+    derive: [Function: derive],
+    encodePkcs8: [Function: encodePkcs8],
+    lock: [Function: lock],
+    setMeta: [Function: setMeta],
+    sign: [Function: sign],
+    toJson: [Function: toJson],
+    unlock: [Function: unlock],
+    verify: [Function: verify],
+    vrfSign: [Function: vrfSign],
+    vrfVerify: [Function: vrfVerify]
+  }
+] debug level 0 assertionMethod
+[
+  {
+    address: '3uHrLcf3w8DajYBPxMgRTTGubfM8ywHLherbi1HwqhSJvFm5',
+    addressRaw: Uint8Array(32) [
+       20,  97,  59, 212,  72,  88, 172, 32,
+      172,  36, 153,  56, 119,  66,  25, 46,
+       77, 250, 181, 140,  45, 215,  49,  0,
+      105, 216,  56, 188,  69,  45,  99, 29
+    ],
+    isLocked: false,
+    meta: {},
+    publicKey: Uint8Array(32) [
+       20,  97,  59, 212,  72,  88, 172, 32,
+      172,  36, 153,  56, 119,  66,  25, 46,
+       77, 250, 181, 140,  45, 215,  49,  0,
+      105, 216,  56, 188,  69,  45,  99, 29
+    ],
+    type: 'sr25519',
+    decodePkcs8: [Function: decodePkcs8],
+    derive: [Function: derive],
+    encodePkcs8: [Function: encodePkcs8],
+    lock: [Function: lock],
+    setMeta: [Function: setMeta],
+    sign: [Function: sign],
+    toJson: [Function: toJson],
+    unlock: [Function: unlock],
+    verify: [Function: verify],
+    vrfSign: [Function: vrfSign],
+    vrfVerify: [Function: vrfVerify]
+  }
+] debug level 0 capabilityDelegation
+[
+  {
+    publicKey: Uint8Array(32) [
+      129,   6,  34,  24, 187, 188, 245, 175,
+      126, 190, 143, 242, 236,  14,  34,   1,
+      120, 238,  54, 183,  67,  61,  43,  47,
+       37, 167, 253, 171, 227,  29, 205,  33
+    ],
+    secretKey: Uint8Array(32) [
+       19,  58, 128,  39, 127, 175, 181, 223,
+       39, 215, 192, 149, 176, 214,  24, 161,
+       74,  99, 236, 195, 249,  64, 156,  81,
+      174, 215, 156, 159, 110,  10,  86, 135
+    ],
+    type: 'x25519'
+  }
+] debug level 0 keyAgreement
+[
+  {
+    id: '#my-service',
+    type: [ 'service-type' ],
+    serviceEndpoint: [ 'https://www.example.com' ]
+  }
+] debug level 0 service
+{
+  address: '3vX7fMRQSgm7ZVPizxXC2NTuMB3D9ZTiRaS8M3pvE5jAHQDM',
+  addressRaw: Uint8Array(32) [
+     74, 187,  61,  75,  14,  65,  85, 123,
+     30, 115,  74,  11,  84,  52,  57,  43,
+    169,  78, 225, 218, 160, 176, 114, 169,
+    238, 213,  69, 197, 189, 190,  11,  52
+  ],
+  isLocked: false,
+  meta: {},
+  publicKey: Uint8Array(32) [
+     74, 187,  61,  75,  14,  65,  85, 123,
+     30, 115,  74,  11,  84,  52,  57,  43,
+    169,  78, 225, 218, 160, 176, 114, 169,
+    238, 213,  69, 197, 189, 190,  11,  52
+  ],
+  type: 'sr25519',
+  decodePkcs8: [Function: decodePkcs8],
+  derive: [Function: derive],
+  encodePkcs8: [Function: encodePkcs8],
+  lock: [Function: lock],
+  setMeta: [Function: setMeta],
+  sign: [Function: sign],
+  toJson: [Function: toJson],
+  unlock: [Function: unlock],
+  verify: [Function: verify],
+  vrfSign: [Function: vrfSign],
+  vrfVerify: [Function: vrfVerify]
+} debug level 0 authenticationKey
+3vX7fMRQSgm7ZVPizxXC2NTuMB3D9ZTiRaS8M3pvE5jAHQDM debug level did
+3wuCGwNSR7XmVrXvxQUnWdJZLR9hmNjTsZ6VCyKowFHA3YKJ debug level submitter
+{
+  sr25519: Uint8Array(32) [
+     24,  74, 196,  48, 232, 116,  78, 154,
+    108, 129,  42,  75, 124,  85, 245,  13,
+     86, 102, 206, 242,  59, 158,  74, 201,
+     87,  98,   6,  86, 215,  77,  59,  31
+  ]
+} debug level assertionKey
+{
+  sr25519: Uint8Array(32) [
+     20,  97,  59, 212,  72,  88, 172, 32,
+    172,  36, 153,  56, 119,  66,  25, 46,
+     77, 250, 181, 140,  45, 215,  49,  0,
+    105, 216,  56, 188,  69,  45,  99, 29
+  ]
+} debug level delegationKey
+[
+  {
+    x25519: Uint8Array(32) [
+      129,   6,  34,  24, 187, 188, 245, 175,
+      126, 190, 143, 242, 236,  14,  34,   1,
+      120, 238,  54, 183,  67,  61,  43,  47,
+       37, 167, 253, 171, 227,  29, 205,  33
+    ]
+  }
+] debug level keyAgreementKeys
+[
+  {
+    id: 'my-service',
+    serviceTypes: [ 'service-type' ],
+    urls: [ 'https://www.example.com' ]
+  }
+] debug level serviceDetails
+{
+  did: '3vX7fMRQSgm7ZVPizxXC2NTuMB3D9ZTiRaS8M3pvE5jAHQDM',
+  submitter: '3wuCGwNSR7XmVrXvxQUnWdJZLR9hmNjTsZ6VCyKowFHA3YKJ',
+  newAssertionKey: {
+    sr25519: Uint8Array(32) [
+       24,  74, 196,  48, 232, 116,  78, 154,
+      108, 129,  42,  75, 124,  85, 245,  13,
+       86, 102, 206, 242,  59, 158,  74, 201,
+       87,  98,   6,  86, 215,  77,  59,  31
+    ]
+  },
+  newDelegationKey: {
+    sr25519: Uint8Array(32) [
+       20,  97,  59, 212,  72,  88, 172, 32,
+      172,  36, 153,  56, 119,  66,  25, 46,
+       77, 250, 181, 140,  45, 215,  49,  0,
+      105, 216,  56, 188,  69,  45,  99, 29
+    ]
+  },
+  newKeyAgreementKeys: [ { x25519: [Uint8Array] } ],
+  newServiceDetails: [ { id: 'my-service', serviceTypes: [Array], urls: [Array] } ]
+} debug level apiinput
+Uint8Array(217) [
+   74, 187,  61,  75,  14,  65,  85, 123,  30, 115,  74,  11,
+   84,  52,  57,  43, 169,  78, 225, 218, 160, 176, 114, 169,
+  238, 213,  69, 197, 189, 190,  11,  52, 135, 206, 102, 255,
+  122, 148, 166, 180,  21, 185,  23, 104, 171, 219, 209, 234,
+  130, 233, 251,  39, 217, 123, 125,  43, 175, 184,  32, 221,
+  157,  33, 118, 252,   4,   0, 129,   6,  34,  24, 187, 188,
+  245, 175, 126, 190, 143, 242, 236,  14,  34,   1, 120, 238,
+   54, 183,  67,  61,  43,  47,  37, 167, 253, 171, 227,  29,
+  205,  33,   1,   1,
+  ... 117 more items
+] {
+  sr25519: Uint8Array(64) [
+     20, 185, 142, 240, 253,   8, 121, 237, 212,  18, 136,
+    164, 143, 191, 246,  82, 253,  69,  88, 252, 101,  79,
+     25, 212,  39, 106, 159, 111,  23,  45,  10,  86, 217,
+     59, 198,  87, 105,  22, 169, 114, 119,  98,  45,  12,
+     30, 160,  48, 202, 122, 129, 224,   0, 207, 224, 137,
+    221,  44, 217, 176, 206, 242, 121, 247, 128
+  ]
+} debug level DidCall
+{
+  sr25519: Uint8Array(64) [
+     20, 185, 142, 240, 253,   8, 121, 237, 212,  18, 136,
+    164, 143, 191, 246,  82, 253,  69,  88, 252, 101,  79,
+     25, 212,  39, 106, 159, 111,  23,  45,  10,  86, 217,
+     59, 198,  87, 105,  22, 169, 114, 119,  98,  45,  12,
+     30, 160,  48, 202, 122, 129, 224,   0, 207, 224, 137,
+    221,  44, 217, 176, 206, 242, 121, 247, 128
+  ]
+} debug level encodedSignature
+{
+  uri: 'did:cord:3vX7fMRQSgm7ZVPizxXC2NTuMB3D9ZTiRaS8M3pvE5jAHQDM',
+  authentication: [
+    {
+      id: '#0x91472b7a2df1432b55ffa6c4d4745a4acfca16191eafb80992e05d41ee20f459',
+      type: 'sr25519',
+      publicKey: [Uint8Array]
+    }
+  ],
+  assertionMethod: [
+    {
+      id: '#0xaf40c397424aafc3147e7120e1ada90047466291e375afe5987e759f1d011ce6',
+      type: 'sr25519',
+      publicKey: [Uint8Array]
+    }
+  ],
+  capabilityDelegation: [
+    {
+      id: '#0x29b50aa1e55fdbbdaee7011c0b4245a5dc2f1972384acbc05e2560170171db9c',
+      type: 'sr25519',
+      publicKey: [Uint8Array]
+    }
+  ],
+  keyAgreement: [
+    {
+      id: '#0xe56ec45ca7ff3eca31ca74909d1d0ad271a2314022386f850bca500cc8c98bb6',
+      type: 'x25519',
+      publicKey: [Uint8Array]
+    }
+  ],
+  service: [ { id: '#my-service', type: [Array], serviceEndpoint: [Array] } ]
+}
+authentication debug level {
+  address: '3vX7fMRQSgm7ZVPizxXC2NTuMB3D9ZTiRaS8M3pvE5jAHQDM',
+  addressRaw: Uint8Array(32) [
+     74, 187,  61,  75,  14,  65,  85, 123,
+     30, 115,  74,  11,  84,  52,  57,  43,
+    169,  78, 225, 218, 160, 176, 114, 169,
+    238, 213,  69, 197, 189, 190,  11,  52
+  ],
+  isLocked: false,
+  meta: {},
+  publicKey: Uint8Array(32) [
+     74, 187,  61,  75,  14,  65,  85, 123,
+     30, 115,  74,  11,  84,  52,  57,  43,
+    169,  78, 225, 218, 160, 176, 114, 169,
+    238, 213,  69, 197, 189, 190,  11,  52
+  ],
+  type: 'sr25519',
+  decodePkcs8: [Function: decodePkcs8],
+  derive: [Function: derive],
+  encodePkcs8: [Function: encodePkcs8],
+  lock: [Function: lock],
+  setMeta: [Function: setMeta],
+  sign: [Function: sign],
+  toJson: [Function: toJson],
+  unlock: [Function: unlock],
+  verify: [Function: verify],
+  vrfSign: [Function: vrfSign],
+  vrfVerify: [Function: vrfVerify]
+}
+🏛   Delegate (sr25519): did:cord:3vX7fMRQSgm7ZVPizxXC2NTuMB3D9ZTiRaS8M3pvE5jAHQDM
+✅ Identities created!
+
+❄️  DID name Creation 
+Did -  did:cord:3wN5tx3AicuKs93pihK2q2dafqd9SMPJASP2fitYCwZfBp2U solar.sailer.fd11@cord
+✅ DID name - solar.sailer.fd11@cord - created!
+
+❄️  Resolve DID name solar.sailer.fd11@cord 
+ uri: did:cord:3wN5tx3AicuKs93pihK2q2dafqd9SMPJASP2fitYCwZfBp2U
+✅ DID name resolved!
+
+❄️  Chain Space Creation 
+{
+  uri: [32m'space:cord:c33SrbEQKre15htBCgkx5f8EJdgCJikgBkFSVHGZDcyLm8hoH'[39m,
+  desc: [32m'ChainSpace v1.f2a0c725-a70e-4999-ac69-8354b3ffa713'[39m,
+  digest: [32m'0x4d8ce4a5b9d76c4ceb89d6d7b10e4492b8dc4cb4de12588c9c0311f8187e0d76'[39m,
+  creatorUri: [32m'did:cord:3wN5tx3AicuKs93pihK2q2dafqd9SMPJASP2fitYCwZfBp2U'[39m,
+  authorizationUri: [32m'auth:cord:a3enfw19oeom18UmBcnhFc31dBmeS4d2uuQyeQ9JSuLGvUHM9'[39m
+}
+
+❄️  Chain Space Properties 
+{
+  uri: [32m'space:cord:c33SrbEQKre15htBCgkx5f8EJdgCJikgBkFSVHGZDcyLm8hoH'[39m,
+  authorization: [32m'auth:cord:a3enfw19oeom18UmBcnhFc31dBmeS4d2uuQyeQ9JSuLGvUHM9'[39m
+}
+✅ Chain Space created!
+
+❄️  Chain Space Approval 
+✅  Chain Space Approved
+{
+  uri: [32m'space:cord:c35Rkrxmne34sjcP4nz8s8LJmwTf7d44dUepBWV7CsXodnGoi'[39m,
+  desc: [32m'ChainSpace v1.45bb61ec-4ed8-4437-adae-766eef1c9f86'[39m,
+  digest: [32m'0x77cd29b024eecc1f8cf7b97b7594b1202dabdc1c3a4fe2cda234022f6ab6e3c1'[39m,
+  creatorUri: [32m'did:cord:3wN5tx3AicuKs93pihK2q2dafqd9SMPJASP2fitYCwZfBp2U'[39m,
+  authorizationUri: [32m'auth:cord:a3frQjZupybyWWXMW3FBQyy1Dxb2A5fujLid8gPx7dQq65xXG'[39m
+}
+{
+  uri: [32m'space:cord:c35Rkrxmne34sjcP4nz8s8LJmwTf7d44dUepBWV7CsXodnGoi'[39m,
+  authorization: [32m'auth:cord:a3frQjZupybyWWXMW3FBQyy1Dxb2A5fujLid8gPx7dQq65xXG'[39m
+}
+
+❄️  SubSpace is created
+
+❄️  SubSpace limit is updated
+
+❄️  Space Delegate Authorization 
+{
+  uri: [32m'space:cord:c33SrbEQKre15htBCgkx5f8EJdgCJikgBkFSVHGZDcyLm8hoH'[39m,
+  delegateUri: [32m'did:cord:3ucjnffRHyahw3Rdg1DkFdL2hzb6zHDHnnyQdutSeLpyHj5k'[39m,
+  permission: [33m1[39m,
+  authorizationUri: [32m'auth:cord:a3aEh73XhV78LUCDAofD2pncrvmLvyAj6Bx55JVePq8bPbtPD'[39m,
+  delegatorUri: [32m'did:cord:3wN5tx3AicuKs93pihK2q2dafqd9SMPJASP2fitYCwZfBp2U'[39m
+}
+
+❄️  Space Delegation To Chain 
+[32m'auth:cord:a3aEh73XhV78LUCDAofD2pncrvmLvyAj6Bx55JVePq8bPbtPD'[39m
+✅ Space Authorization - auth:cord:a3aEh73XhV78LUCDAofD2pncrvmLvyAj6Bx55JVePq8bPbtPD - added!
+
+❄️  Query From Chain - Chain Space Details 
+{
+  uri: [32m'space:cord:c33SrbEQKre15htBCgkx5f8EJdgCJikgBkFSVHGZDcyLm8hoH'[39m,
+  creatorUri: [32m'did:cord:3wN5tx3AicuKs93pihK2q2dafqd9SMPJASP2fitYCwZfBp2U'[39m,
+  txnCapacity: [33m1000[39m,
+  txnUsage: [33m2[39m,
+  approved: [33mtrue[39m,
+  archive: [33mfalse[39m
+}
+
+❄️  Query From Chain - Chain Space Authorization Details 
+{
+  uri: [32m'space:cord:c33SrbEQKre15htBCgkx5f8EJdgCJikgBkFSVHGZDcyLm8hoH'[39m,
+  delegateUri: [32m'did:cord:3ucjnffRHyahw3Rdg1DkFdL2hzb6zHDHnnyQdutSeLpyHj5k'[39m,
+  permission: [33m1[39m,
+  authorizationUri: [32m'auth:cord:a3aEh73XhV78LUCDAofD2pncrvmLvyAj6Bx55JVePq8bPbtPD'[39m,
+  delegatorUri: [32m'did:cord:3wN5tx3AicuKs93pihK2q2dafqd9SMPJASP2fitYCwZfBp2U'[39m
+}
+✅ Chain Space Functions Completed!
+
+❄️  Schema Creation 
+{
+  schema: {
+    [32m'$id'[39m: [32m'schema:cord:s32NhB5hGt99XP2fMdDyLTN3w1pdgf68gz3GrvLj5ZpQZ47jY'[39m,
+    [32m'$schema'[39m: [32m'http://cord.network/draft-01/schema#'[39m,
+    [32m'$metadata'[39m: { version: [32m'1.0.0'[39m, slug: [32m'test-demo-schema'[39m, discoverable: [33mtrue[39m },
+    title: [32m'Test Demo Schema v3:fcd02f7b-27b9-4e99-8232-76090e36231f'[39m,
+    description: [32m'Test Demo Schema'[39m,
+    properties: {
+      name: { type: [32m'string'[39m },
+      age: { type: [32m'integer'[39m },
+      id: { type: [32m'string'[39m },
+      country: { type: [32m'string'[39m },
+      address: {
+        type: [32m'object'[39m,
+        properties: {
+          street: { type: [32m'string'[39m },
+          pin: { type: [32m'integer'[39m },
+          location: {
+            type: [32m'object'[39m,
+            properties: { state: { type: [32m'string'[39m }, country: { type: [32m'string'[39m } }
+          }
+        }
+      }
+    },
+    type: [32m'object'[39m,
+    additionalProperties: [33mfalse[39m
+  },
+  digest: [32m'0x7f76d57fec34231db865780b462f3140438763645ee7047e5570eb22793dd1c8'[39m,
+  spaceUri: [32m'space:cord:c33SrbEQKre15htBCgkx5f8EJdgCJikgBkFSVHGZDcyLm8hoH'[39m,
+  creatorUri: [32m'did:cord:3wN5tx3AicuKs93pihK2q2dafqd9SMPJASP2fitYCwZfBp2U'[39m
+}
+✅ Schema - schema:cord:s32NhB5hGt99XP2fMdDyLTN3w1pdgf68gz3GrvLj5ZpQZ47jY - added!
+
+❄️  Query From Chain - Schema 
+{
+  schema: {
+    [32m'$id'[39m: [32m'schema:cord:s32NhB5hGt99XP2fMdDyLTN3w1pdgf68gz3GrvLj5ZpQZ47jY'[39m,
+    [32m'$metadata'[39m: { discoverable: [33mtrue[39m, slug: [32m'test-demo-schema'[39m, version: [32m'1.0.0'[39m },
+    [32m'$schema'[39m: [32m'http://cord.network/draft-01/schema#'[39m,
+    additionalProperties: [33mfalse[39m,
+    description: [32m'Test Demo Schema'[39m,
+    properties: {
+      address: {
+        properties: {
+          location: {
+            properties: { country: { type: [32m'string'[39m }, state: { type: [32m'string'[39m } },
+            type: [32m'object'[39m
+          },
+          pin: { type: [32m'integer'[39m },
+          street: { type: [32m'string'[39m }
+        },
+        type: [32m'object'[39m
+      },
+      age: { type: [32m'integer'[39m },
+      country: { type: [32m'string'[39m },
+      id: { type: [32m'string'[39m },
+      name: { type: [32m'string'[39m }
+    },
+    title: [32m'Test Demo Schema v3:fcd02f7b-27b9-4e99-8232-76090e36231f'[39m,
+    type: [32m'object'[39m
+  },
+  digest: [32m'0x7f76d57fec34231db865780b462f3140438763645ee7047e5570eb22793dd1c8'[39m,
+  spaceUri: [32m'space:cord:c33SrbEQKre15htBCgkx5f8EJdgCJikgBkFSVHGZDcyLm8hoH'[39m,
+  creatorUri: [32m'did:cord:3wN5tx3AicuKs93pihK2q2dafqd9SMPJASP2fitYCwZfBp2U'[39m
+}
+✅ Schema Functions Completed!
+
+❄️  Statement Creation 
+{
+  [32m'@context'[39m: [
+    [32m'https://www.w3.org/2018/credentials/examples/v1'[39m,
+    [32m'https://www.w3.org/2018/credentials/v1'[39m
+  ],
+  id: [32m'http://example.dway.in/credentials/3732'[39m,
+  type: [ [32m'UniversityDegreeCredential'[39m, [32m'VerifiableCredential'[39m ],
+  issuer: [32m'did:cord:3yuH8SE1rPjYyzTS8np2Zpka2KXagbkcCV6dNBU75wcvjc1p'[39m,
+  issuanceDate: [32m'2024-09-03T02:56:54.081Z'[39m,
+  credentialSubject: {
+    id: [32m'did:cord:3yT76V5nBADwojuHcgqnUWm27RpRP7cXEUA6kFo24deFxLev'[39m,
+    degree: { type: [32m'BachelorDegree'[39m, name: [32m'Bachelor of Science and Arts'[39m }
+  },
+  proof: {
+    type: [32m'Ed25519Signature2020'[39m,
+    created: [32m'2021-11-13T18:19:39Z'[39m,
+    verificationMethod: [32m'did:cord:3yuH8SE1rPjYyzTS8np2Zpka2KXagbkcCV6dNBU75wcvjc1p#0xfffff01dde2773a43c61bb28ab61b72b7656584eb1ea367b3bd8b4be55d63c41'[39m,
+    proofPurpose: [32m'assertionMethod'[39m,
+    proofValue: [32m'z58DAdFfa9SkqZMVPxAQpic7ndSayn1PzZs6ZjWp1CktyGesjuTSwRdoWhAfGFCF5bppETSTojQCrfFPP2oumHKtz'[39m
+  }
+}
+{
+  elementUri: [32m'stmt:cord:s3dDCmFDsjzwL45EYFGc6n6naiZTvCsCmLevM9A9WChNJkLhv:e7e5251b8a1c7fba437b3efdd1988553fd9219c659e298e86e79a45f11c0e065'[39m,
+  digest: [32m'0xe7e5251b8a1c7fba437b3efdd1988553fd9219c659e298e86e79a45f11c0e065'[39m,
+  creatorUri: [32m'did:cord:3wN5tx3AicuKs93pihK2q2dafqd9SMPJASP2fitYCwZfBp2U'[39m,
+  spaceUri: [32m'space:cord:c33SrbEQKre15htBCgkx5f8EJdgCJikgBkFSVHGZDcyLm8hoH'[39m,
+  schemaUri: [32m'schema:cord:s32NhB5hGt99XP2fMdDyLTN3w1pdgf68gz3GrvLj5ZpQZ47jY'[39m
+}
+✅ Statement element registered - stmt:cord:s3dDCmFDsjzwL45EYFGc6n6naiZTvCsCmLevM9A9WChNJkLhv:e7e5251b8a1c7fba437b3efdd1988553fd9219c659e298e86e79a45f11c0e065
+
+❄️  Statement Updation 
+{
+  elementUri: [32m'stmt:cord:s3dDCmFDsjzwL45EYFGc6n6naiZTvCsCmLevM9A9WChNJkLhv:5c9daddfbf103fc4028fb266ce60b5aa4fc135938cd9c68c447e07bb6f44005f'[39m,
+  digest: [32m'0x5c9daddfbf103fc4028fb266ce60b5aa4fc135938cd9c68c447e07bb6f44005f'[39m,
+  creatorUri: [32m'did:cord:3ucjnffRHyahw3Rdg1DkFdL2hzb6zHDHnnyQdutSeLpyHj5k'[39m,
+  spaceUri: [32m'space:cord:c33SrbEQKre15htBCgkx5f8EJdgCJikgBkFSVHGZDcyLm8hoH'[39m
+}
+✅ Statement element registered - stmt:cord:s3dDCmFDsjzwL45EYFGc6n6naiZTvCsCmLevM9A9WChNJkLhv:5c9daddfbf103fc4028fb266ce60b5aa4fc135938cd9c68c447e07bb6f44005f
+
+❄️  Statement verification 
+🚫 Verification failed! - "Statement "stmt:cord:s3dDCmFDsjzwL45EYFGc6n6naiZTvCsCmLevM9A9WChNJkLhv:e7e5251b8a1c7fba437b3efdd1988553fd9219c659e298e86e79a45f11c0e065" Revoked." 🚫
+
+✅ Verification successful! "stmt:cord:s3dDCmFDsjzwL45EYFGc6n6naiZTvCsCmLevM9A9WChNJkLhv:5c9daddfbf103fc4028fb266ce60b5aa4fc135938cd9c68c447e07bb6f44005f" 🎉
+
+❄️  Revoke Statement - stmt:cord:s3dDCmFDsjzwL45EYFGc6n6naiZTvCsCmLevM9A9WChNJkLhv:5c9daddfbf103fc4028fb266ce60b5aa4fc135938cd9c68c447e07bb6f44005f
+✅ Statement revoked!
+
+❄️  Statement Re-verification 
+🚫 Verification failed! - "Statement "stmt:cord:s3dDCmFDsjzwL45EYFGc6n6naiZTvCsCmLevM9A9WChNJkLhv:5c9daddfbf103fc4028fb266ce60b5aa4fc135938cd9c68c447e07bb6f44005f" Revoked." 🚫
+
+❄️  Restore Statement - stmt:cord:s3dDCmFDsjzwL45EYFGc6n6naiZTvCsCmLevM9A9WChNJkLhv:5c9daddfbf103fc4028fb266ce60b5aa4fc135938cd9c68c447e07bb6f44005f
+✅ Statement revoked!
+
+❄️  Statement Re-verification 
+✅ Verification successful! "stmt:cord:s3dDCmFDsjzwL45EYFGc6n6naiZTvCsCmLevM9A9WChNJkLhv:5c9daddfbf103fc4028fb266ce60b5aa4fc135938cd9c68c447e07bb6f44005f" 🎉
+
+Bye! 👋 👋 👋 

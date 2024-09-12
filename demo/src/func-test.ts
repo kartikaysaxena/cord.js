@@ -17,6 +17,10 @@ function getChallenge(): string {
   return Cord.Utils.UUID.generate()
 }
 
+function sleep(ms) {
+  return new Promise(resolve => setTimeout(resolve, ms));
+}
+
 async function main() {
   const networkAddress = process.env.NETWORK_ADDRESS
     ? process.env.NETWORK_ADDRESS
@@ -47,6 +51,7 @@ async function main() {
   console.log(`🏦  Member (${authorIdentity.type}): ${authorIdentity.address}`)
   await addNetworkMember(authorityAuthorIdentity, authorIdentity.address)
   console.log(`🔏  Member permissions updated`)
+  await sleep(30000);
   await setIdentity(authorIdentity)
   console.log(`🔏  Member identity info updated`)
   await requestJudgement(authorIdentity, authorityIdentity.address)

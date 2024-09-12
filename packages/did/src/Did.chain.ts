@@ -337,6 +337,12 @@ export async function getStoreTx(
     service = [],
   } = input
 
+  console.log(authentication, "debug level 0 authentication") 
+  console.log(assertionMethod, "debug level 0 assertionMethod")
+  console.log(capabilityDelegation, "debug level 0 capabilityDelegation")
+  console.log(keyAgreement, "debug level 0 keyAgreement")
+  console.log(service, "debug level 0 service")
+
   if (!('authentication' in input) || typeof authentication[0] !== 'object') {
     throw new SDKErrors.DidError(
       `The provided DID does not have an authentication key to sign the creation operation`
@@ -373,6 +379,7 @@ export async function getStoreTx(
   }
 
   const [authenticationKey] = authentication
+  console.log(authenticationKey, "debug level 0 authenticationKey")
   const did = getAddressByKey(authenticationKey)
 
   const newAssertionKey =
@@ -396,6 +403,13 @@ export async function getStoreTx(
     newKeyAgreementKeys,
     newServiceDetails,
   }
+  console.log(did, "debug level did")
+  console.log(submitter, "debug level submitter")
+  console.log(newAssertionKey, "debug level assertionKey")
+  console.log(newDelegationKey, "debug level delegationKey")
+  console.log(newKeyAgreementKeys, "debug level keyAgreementKeys")
+  console.log(newServiceDetails, "debug level serviceDetails")
+  console.log(apiInput, "debug level apiinput")
 
   const encoded = api.registry
     .createType(api.tx.did.create.meta.args[0].type.toString(), apiInput)
@@ -408,6 +422,8 @@ export async function getStoreTx(
   const encodedSignature = {
     [signature.keyType]: signature.signature,
   } as EncodedSignature
+  console.log(encoded, encodedSignature, "debug level DidCall")
+  console.log(encodedSignature, "debug level encodedSignature")
   return api.tx.did.create(encoded, encodedSignature)
 }
 

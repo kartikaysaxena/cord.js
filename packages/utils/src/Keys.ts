@@ -54,6 +54,8 @@ export function generateKeypairs(mnemonic: string, keytype?: string): ICordKeyPa
 	type: keytype,
     } as CordKeyringPair
 
+    console.log('authentication debug level', authentication)
+
     const assertionMethod = {
 	...account.derive('//did//assertion//0'),
 	type: keytype,
